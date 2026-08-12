@@ -1,0 +1,365 @@
+{
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "category": "Constitutional Development",
+      "question": "Which elective principle was first introduced in Nigeria's colonial history under the Clifford Constitution of 1922?",
+      "options": {
+        "A": "Universal adult suffrage across all regions",
+        "B": "Indirect election through regional native authorities",
+        "C": "Direct election restricted to Lagos and Calabar",
+        "D": "Proportional representation in the Legislative Council"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "category": "Constitutional Development",
+      "question": "The Richards Constitution of 1946 was structurally significant primarily because it introduced which framework into Nigerian politics?",
+      "options": {
+        "A": "Full executive cabinet independence",
+        "B": "Regionalism dividing the country into three units",
+        "C": "Unicameral federal parliament with equal seats",
+        "D": "Complete judicial review by native courts"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "category": "Constitutional Development",
+      "question": "Which constitutional arrangement created a formal quasi-federal structure and established ministerial positions for Nigerians in 1951?",
+      "options": {
+        "A": "Lyttelton Constitution",
+        "B": "Macpherson Constitution",
+        "C": "Clifford Constitution",
+        "D": "Independence Constitution"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "category": "Constitutional Development",
+      "question": "The Lyttelton Constitution of 1954 is widely recognized as pivotal in Nigerian political development because it:",
+      "options": {
+        "A": "Established true federalism with autonomous regions",
+        "B": "Abolished the office of the Governor-General",
+        "C": "Unified the civil services of all three regions",
+        "D": "Granted full independence to the Southern Cameroons"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "category": "Constitutional Development",
+      "question": "What key institutional change marked the passage of the 1963 Republican Constitution of Nigeria?",
+      "options": {
+        "A": "The Privy Council was retained as the highest court",
+        "B": "The British monarch ceased to be the Head of State",
+        "C": "An executive presidential system was introduced",
+        "D": "The Senate was merged into a single chamber"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "category": "Constitutional Development",
+      "question": "The 1979 Constitution introduced an Executive Presidential system modeled principally after that of which country?",
+      "options": {
+        "A": "United Kingdom",
+        "B": "France",
+        "C": "United States of America",
+        "D": "Canada"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "category": "Constitutional Development",
+      "question": "Under the 1999 Constitution of the Federal Republic of Nigeria, exclusive legislative powers over defense, external affairs, and currency belong strictly to:",
+      "options": {
+        "A": "The State House of Assembly",
+        "B": "The National Assembly (Federal Legislature)",
+        "C": "The National Economic Council",
+        "D": "The Local Government Councils"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "category": "Constitutional Development",
+      "question": "In a written federal constitution, which organ of government is legally vested with the final power of constitutional interpretation?",
+      "options": {
+        "A": "The Executive Council",
+        "B": "The Judicial Service Commission",
+        "C": "The Supreme Court",
+        "D": "The Senate President"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "category": "Political Parties and Electoral Systems",
+      "question": "An electoral system in which the candidate with the highest number of votes wins a single-seat constituency, regardless of majority, is known as:",
+      "options": {
+        "A": "Second Ballot System",
+        "B": "First-Past-The-Post (FPTP) System",
+        "C": "Single Transferable Vote (STV)",
+        "D": "List Proportional Representation"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "category": "Political Parties and Electoral Systems",
+      "question": "Which political party was formed in 1923 by Herbert Macaulay, becoming Nigeria's first registered political party?",
+      "options": {
+        "A": "National Council of Nigeria and the Cameroons (NCNC)",
+        "B": "Nigerian National Democratic Party (NNDP)",
+        "C": "Action Group (AG)",
+        "D": "Northern People's Congress (NPC)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "category": "Political Parties and Electoral Systems",
+      "question": "What primary function distinguishes a political party from a pressure group or interest group?",
+      "options": {
+        "A": "Influencing public policy choices",
+        "B": "Mobilizing public opinion on single issues",
+        "C": "Contesting elections to capture state power",
+        "D": "Providing charitable services to citizens"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "category": "Political Parties and Electoral Systems",
+      "question": "A major criticism often leveled against proportional representation (PR) electoral systems is that they:",
+      "options": {
+        "A": "Frequently result in unstable coalition governments",
+        "B": "Waste a vast majority of cast votes",
+        "C": "Prevent minority parties from gaining seats",
+        "D": "Routinely disenfranchise rural voters"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "category": "Political Parties and Electoral Systems",
+      "question": "Which type of political party structure relies predominantly on mass membership, open enrollment, and grassroots funding rather than elite patronage?",
+      "options": {
+        "A": "Cadre party",
+        "B": "Elitist party",
+        "C": "Mass party",
+        "D": "Broker party"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "category": "Political Parties and Electoral Systems",
+      "question": "What term describes the process of redrawing electoral constituency boundaries to unfairly favor one political party over another?",
+      "options": {
+        "A": "Filibustering",
+        "B": "Gerrymandering",
+        "C": "Enfranchisement",
+        "D": "Logrolling"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "category": "Political Parties and Electoral Systems",
+      "question": "An independent electoral commission serves primarily to promote democracy by:",
+      "options": {
+        "A": "Formulating economic policies for candidates",
+        "B": "Guaranteeing free, fair, and impartial elections",
+        "C": "Funding campaign activities of ruling parties",
+        "D": "Appointing judicial officers to tribunals"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "category": "International Organizations",
+      "question": "Which organ of the United Nations (UN) possesses the primary responsibility for the maintenance of international peace and security under the UN Charter?",
+      "options": {
+        "A": "The General Assembly",
+        "B": "The Trusteeship Council",
+        "C": "The Security Council",
+        "D": "The International Court of Justice"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "category": "International Organizations",
+      "question": "How many permanent members hold veto power in the United Nations Security Council (UNSC)?",
+      "options": {
+        "A": "10",
+        "B": "5",
+        "C": "15",
+        "D": "7"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "category": "International Organizations",
+      "question": "The African Union (AU) officially replaced the Organization of African Unity (OAU) in 2002 following the adoption of its Constitutive Act in which city?",
+      "options": {
+        "A": "Addis Ababa",
+        "B": "Sirte",
+        "C": "Durban",
+        "D": "Lomé"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 19,
+      "category": "International Organizations",
+      "question": "Where is the administrative headquarters of the Economic Community of West African States (ECOWAS) located?",
+      "options": {
+        "A": "Accra, Ghana",
+        "B": "Dakar, Senegal",
+        "C": "Abuja, Nigeria",
+        "D": "Abidjan, Côte d'Ivoire"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "category": "International Organizations",
+      "question": "The Commonwealth of Nations is a voluntary association primarily composed of:",
+      "options": {
+        "A": "French-speaking nations globally",
+        "B": "Former territories of the British Empire",
+        "C": "Petroleum-exporting developing countries",
+        "D": "Non-aligned democratic states"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "category": "International Organizations",
+      "question": "Which specialized UN agency is mandated to promote international collaboration through education, science, culture, and communication?",
+      "options": {
+        "A": "UNICEF",
+        "B": "UNHCR",
+        "C": "UNESCO",
+        "D": "UNDP"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "category": "International Organizations",
+      "question": "What is the principal judicial organ of the United Nations, seated at the Peace Palace in The Hague, Netherlands?",
+      "options": {
+        "A": "International Criminal Court (ICC)",
+        "B": "International Court of Justice (ICJ)",
+        "C": "European Court of Human Rights",
+        "D": "Permanent Court of Arbitration"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "category": "Public Administration and Civil Service",
+      "question": "According to Max Weber's classical model of bureaucracy, which feature is fundamental to civil service structure?",
+      "options": {
+        "A": "Political partisanship in policy execution",
+        "B": "Hierarchical authority and rule-based decision making",
+        "C": "Temporary tenure tied to electoral terms",
+        "D": "Subjective personal discretion in administration"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "category": "Public Administration and Civil Service",
+      "question": "The constitutional doctrine that civil servants must remain politically neutral and protected from arbitrary dismissal is essential to ensuring:",
+      "options": {
+        "A": "Anonymity and continuity in administration",
+        "B": "Judicial independence from executive control",
+        "C": "Parliamentary control over military spending",
+        "D": "Direct election of permanent secretaries"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "category": "Public Administration and Civil Service",
+      "question": "Which body is constitutionally tasked with the recruitment, promotion, discipline, and dismissal of civil servants in Nigeria?",
+      "options": {
+        "A": "Public Complaints Commission",
+        "B": "Federal Civil Service Commission",
+        "C": "Code of Conduct Bureau",
+        "D": "National Assembly Service Commission"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "category": "Public Administration and Civil Service",
+      "question": "A Public Corporation differs fundamentally from a traditional Civil Service Ministry because a public corporation:",
+      "options": {
+        "A": "Is managed directly by a cabinet minister",
+        "B": "Operates as a semi-autonomous commercial entity",
+        "C": "Is totally exempt from government auditing",
+        "D": "Is funded exclusively through foreign grants"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "category": "Public Administration and Civil Service",
+      "question": "What is the administrative office established to investigate grievances, corruption, and administrative injustice reported by citizens against public officers?",
+      "options": {
+        "A": "Ombudsman (Public Complaints Commission)",
+        "B": "Code of Conduct Tribunal",
+        "C": "Judicial Service Committee",
+        "D": "Civil Liberties Organization"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "category": "Public Administration and Civil Service",
+      "question": "The highest administrative non-political officer in a government ministry is the:",
+      "options": {
+        "A": "Executive Minister",
+        "B": "Permanent Secretary",
+        "C": "Director-General of Operations",
+        "D": "Chief Accountant"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "category": "Public Administration and Civil Service",
+      "question": "Which principle requires that a Minister, rather than civil servants, takes public responsibility for the administrative successes or failures of a government department?",
+      "options": {
+        "A": "Bureaucratic impunity",
+        "B": "Ministerial responsibility",
+        "C": "Civil anonymity",
+        "D": "Administrative discretion"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "category": "Public Administration and Civil Service",
+      "question": "Delegated legislation allows administrative bodies to make rules and regulations. What is a primary concern associated with its extensive use?",
+      "options": {
+        "A": "It weakens the speed of executive implementation",
+        "B": "It reduces the workload of judicial courts",
+        "C": "It may lead to executive encroachment on legislative power",
+        "D": "It prevents civil servants from offering policy advice"
+      },
+      "answer": "C"
+    }
+  ]
+}
