@@ -1,0 +1,365 @@
+{
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "category": "Organic Chemistry",
+      "question": "An organic compound X with molecular formula C₄H₁₀O resists oxidation by acidified K₂Cr₂O₇. When reacted with Lucas reagent (conc. HCl and anhydrous ZnCl₂), it forms an immediate turbidity at room temperature. What is the IUPAC name of compound X?",
+      "options": {
+        "A": "2-methylpropan-2-ol",
+        "B": "butan-2-ol",
+        "C": "butan-1-ol",
+        "D": "2-methylpropan-1-ol"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "category": "Organic Chemistry",
+      "question": "During the ozonolysis of an unknown alkene followed by reductive workup with Zn/H₂O, the only organic product obtained is propanone. What is the IUPAC name of the original alkene?",
+      "options": {
+        "A": "2-methylbut-2-ene",
+        "B": "2,3-dimethylbut-2-ene",
+        "C": "2,3-dimethylbut-1-ene",
+        "D": "2-methylprop-1-ene"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "category": "Organic Chemistry",
+      "question": "Which of the following carbocations displays the highest degree of thermodynamic stability?",
+      "options": {
+        "A": "CH₃–CH₂⁺",
+        "B": "(CH₃)₂CH⁺",
+        "C": "(C₆H₅)₃C⁺",
+        "D": "(CH₃)₃C⁺"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "category": "Organic Chemistry",
+      "question": "An aromatic hydrocarbon C₈H₁₀ is treated with alkaline KMnO₄ under reflux, yielding a single monocarboxylic acid upon acidification. What is the identity of the original hydrocarbon?",
+      "options": {
+        "A": "1,2-dimethylbenzene",
+        "B": "1,3-dimethylbenzene",
+        "C": "1,4-dimethylbenzene",
+        "D": "Ethylbenzene"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "category": "Organic Chemistry",
+      "question": "When propene reacts with hydrogen bromide in the presence of benzoyl peroxide, the predominant product is 1-bromopropane. Which mechanism governs this regioselective outcome?",
+      "options": {
+        "A": "Electrophilic addition via a secondary carbocation",
+        "B": "Free-radical addition via a more stable secondary radical",
+        "C": "Nucleophilic substitution via an Sₙ2 pathway",
+        "D": "Electrophilic aromatic substitution"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "category": "Organic Chemistry",
+      "question": "Which reagent set can best distinguish between ethanal and propanone in a single step?",
+      "options": {
+        "A": "2,4-dinitrophenylhydrazine",
+        "B": "Tollens' reagent (ammoniacal silver nitrate)",
+        "C": "Acidified potassium dichromate(VI)",
+        "D": "Sodium hydrogen carbonate solution"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "category": "Organic Chemistry",
+      "question": "An ester with molecular formula C₄H₈O₂ undergoes complete alkaline hydrolysis with aqueous NaOH to yield salt A and alcohol B. Oxidation of alcohol B with hot acidified KMnO₄ yields carboxylic acid C, which is identical to the acid obtained by acidifying salt A. Identify the ester.",
+      "options": {
+        "A": "Methyl propanoate",
+        "B": "Propyl methanoate",
+        "C": "Ethyl ethanoate",
+        "D": "Isopropyl methanoate"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "category": "Organic Chemistry",
+      "question": "How many constitutionally distinct structural isomers exist for the acyclic alkyne family with molecular formula C₅H₈?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "category": "Electrochemistry",
+      "question": "Given the standard reduction potentials: E°(Fe³⁺/Fe²⁺) = +0.77 V and E°(Sn⁴⁺/Sn²⁺) = +0.15 V, calculate the standard electromotive force (E°_cell) for the spontaneous reaction.",
+      "options": {
+        "A": "+0.62 V",
+        "B": "+0.92 V",
+        "C": "+1.39 V",
+        "D": "-0.62 V"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "category": "Electrochemistry",
+      "question": "A current of 2.50 A is passed through a solution of CuSO₄ for 96.5 minutes using inert platinum electrodes. What mass of copper metal is deposited at the cathode? (Cu = 63.5 g mol⁻¹, F = 96,500 C mol⁻¹)",
+      "options": {
+        "A": "9.53 g",
+        "B": "4.76 g",
+        "C": "2.38 g",
+        "D": "1.19 g"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "category": "Electrochemistry",
+      "question": "For a Daniell cell operating at 298 K, the overall reaction is Zn(s) + Cu²⁺(aq) ⇌ Zn²⁺(aq) + Cu(s) with E°_cell = +1.10 V. If [Zn²⁺] is increased to 1.0 M while [Cu²⁺] is decreased to 0.01 M, what is the new cell potential (E_cell)? (Take 2.303 RT/F = 0.0591 V)",
+      "options": {
+        "A": "1.100 V",
+        "B": "1.159 V",
+        "C": "1.070 V",
+        "D": "1.041 V"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 12,
+      "category": "Electrochemistry",
+      "question": "During the electrolysis of concentrated aqueous sodium chloride (brine) using inert carbon electrodes, what are the primary chemical products collected at the anode and cathode, respectively?",
+      "options": {
+        "A": "Cl₂(g) at anode, H₂(g) at cathode",
+        "B": "O₂(g) at anode, Na(s) at cathode",
+        "C": "O₂(g) at anode, H₂(g) at cathode",
+        "D": "Cl₂(g) at anode, Na(s) at cathode"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "category": "Electrochemistry",
+      "question": "The molar conductivities at infinite dilution (Λ°_m) for NaCl, HCl, and CH₃COONa are 126.4, 426.2, and 91.0 S cm² mol⁻¹ respectively at 298 K. Calculate the molar conductivity at infinite dilution for CH₃COOH.",
+      "options": {
+        "A": "516.8 S cm² mol⁻¹",
+        "B": "390.8 S cm² mol⁻¹",
+        "C": "208.8 S cm² mol⁻¹",
+        "D": "300.2 S cm² mol⁻¹"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "category": "Electrochemistry",
+      "question": "In a lead-acid accumulator during the discharging cycle, which chemical transformation occurs at the anode?",
+      "options": {
+        "A": "Pb(s) is oxidized to PbSO₄(s)",
+        "B": "PbO₂(s) is reduced to PbSO₄(s)",
+        "C": "PbSO₄(s) is reduced to Pb(s)",
+        "D": "Pb(s) is oxidized to PbO₂(s)"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "category": "Electrochemistry",
+      "question": "If the equilibrium constant K_c for a redox reaction at 298 K is 1.0 × 10¹⁰, what is the value of the standard free energy change (ΔG°) for the cell process? (R = 8.314 J K⁻¹ mol⁻¹)",
+      "options": {
+        "A": "-57.08 kJ mol⁻¹",
+        "B": "+57.08 kJ mol⁻¹",
+        "C": "-24.79 kJ mol⁻¹",
+        "D": "-114.16 kJ mol⁻¹"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "category": "Chemical Equilibrium",
+      "question": "For the gaseous equilibrium system N₂O₄(g) ⇌ 2NO₂(g) with ΔH° = +57.2 kJ mol⁻¹, which combined adjustments will shift the position of equilibrium toward the products while increasing the value of K_p?",
+      "options": {
+        "A": "Increasing total pressure and increasing temperature",
+        "B": "Decreasing total pressure and decreasing temperature",
+        "C": "Increasing temperature alone",
+        "D": "Adding an inert gas at constant volume and increasing temperature"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "category": "Chemical Equilibrium",
+      "question": "At 448°C, the equilibrium constant K_c for H₂(g) + I₂(g) ⇌ 2HI(g) is 50.0. A 1.00 L vessel initially contains 1.00 mol of H₂ and 1.00 mol of I₂. Calculate the equilibrium concentration of HI.",
+      "options": {
+        "A": "0.78 M",
+        "B": "1.56 M",
+        "C": "0.22 M",
+        "D": "1.00 M"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "category": "Chemical Equilibrium",
+      "question": "The solubility product constant (K_sp) of calcium phosphate, Ca₃(PO₄)₂, is expressed as 1.08 × 10⁻²³. What is its molar solubility (S) in pure water?",
+      "options": {
+        "A": "1.0 × 10⁻⁵ M",
+        "B": "2.0 × 10⁻6 M",
+        "C": "1.0 × 10⁻⁶ M",
+        "D": "3.0 × 10⁻⁵ M"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "category": "Chemical Equilibrium",
+      "question": "What is the pH of a buffer solution prepared by mixing 500 mL of 0.20 M CH₃COOH with 500 mL of 0.10 M CH₃COONa? (K_a for CH₃COOH = 1.8 × 10⁻⁵)",
+      "options": {
+        "A": "4.44",
+        "B": "5.04",
+        "C": "4.74",
+        "D": "3.74"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "category": "Chemical Equilibrium",
+      "question": "For the heterogeneous equilibrium CaCO₃(s) ⇌ CaO(s) + CO₂(g), the partial pressure of CO₂ at 800°C is 0.236 atm. What is the numerical value of K_c for this reaction at 800°C? (R = 0.0821 L atm mol⁻¹ K⁻¹)",
+      "options": {
+        "A": "0.236",
+        "B": "2.68 × 10⁻³",
+        "C": "2.08 × 10⁻²",
+        "D": "1.23 × 10⁻²"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "category": "Chemical Equilibrium",
+      "question": "According to Bronsted-Lowry acid-base theory, what is the conjugate base of the amphiprotic hydrogen phosphate ion, HPO₄²⁻?",
+      "options": {
+        "A": "H₃PO₄",
+        "B": "H₂PO₄⁻",
+        "C": "PO₄³⁻",
+        "D": "P₂O₇⁴⁻"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "category": "Chemical Equilibrium",
+      "question": "If the degree of dissociation (α) of a weak monoprotic acid in a 0.01 M aqueous solution is 0.02, what is the acid dissociation constant (K_a)?",
+      "options": {
+        "A": "4.0 × 10⁻⁶",
+        "B": "2.0 × 10⁻⁴",
+        "C": "4.0 × 10⁻⁵",
+        "D": "2.0 × 10⁻⁶"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "category": "Stoichiometry and Mole Concepts",
+      "question": "What volume of 0.020 M KMnO₄ solution in acidic medium is required to completely oxidize 25.0 mL of 0.100 M FeSO₄ solution?",
+      "options": {
+        "A": "125.0 mL",
+        "B": "25.0 mL",
+        "C": "50.0 mL",
+        "D": "10.0 mL"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "category": "Stoichiometry and Mole Concepts",
+      "question": "An organic compound containing C, H, and O was found upon combustion analysis to yield 0.88 g of CO₂ and 0.36 g of H₂O from a 0.60 g sample. What is its empirical formula?",
+      "options": {
+        "A": "CH₂O",
+        "B": "C₂H₄O",
+        "C": "CH₄O",
+        "D": "C₂H₄O₂"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "category": "Stoichiometry and Mole Concepts",
+      "question": "When 10.0 g of aluminum metal reacts with excess hydrochloric acid, hydrogen gas is liberated. Calculate the volume of H₂(g) collected at Standard Temperature and Pressure (STP). (Al = 27.0 g mol⁻¹, Molar volume at STP = 22.4 dm³ mol⁻¹)",
+      "options": {
+        "A": "8.30 dm³",
+        "B": "12.44 dm³",
+        "C": "16.59 dm³",
+        "D": "24.88 dm³"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "category": "Stoichiometry and Mole Concepts",
+      "question": "What is the total number of ions present in 250 mL of a 0.15 M aqueous solution of barium chloride, BaCl₂? (N_A = 6.022 × 10²³ mol⁻¹)",
+      "options": {
+        "A": "2.26 × 10²²",
+        "B": "4.52 × 10²²",
+        "C": "6.77 × 10²²",
+        "D": "9.03 × 10²²"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "category": "Stoichiometry and Mole Concepts",
+      "question": "A 1.20 g sample of impure limestone (containing CaCO₃) was treated with excess dilute HCl. The evolved CO₂ gas occupied 224 cm³ at STP. Calculate the percentage purity of CaCO₃ in the limestone sample. (Ca = 40, C = 12, O = 16, Molar volume at STP = 22.4 dm³ mol⁻¹)",
+      "options": {
+        "A": "83.3%",
+        "B": "75.0%",
+        "C": "90.0%",
+        "D": "66.7%"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "category": "Stoichiometry and Mole Concepts",
+      "question": "What volume of concentrated sulphuric acid (98% H₂SO₄ by mass, density = 1.84 g cm⁻³) is required to prepare 2.0 dm³ of a 0.50 M H₂SO₄ solution? (H = 1, O = 16, S = 32)",
+      "options": {
+        "A": "27.2 cm³",
+        "B": "54.4 cm³",
+        "C": "108.8 cm³",
+        "D": "13.6 cm³"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "category": "Stoichiometry and Mole Concepts",
+      "question": "Concentrated nitric acid acts as an oxidizing agent according to the unbalanced equation: Cu + HNO₃ → Cu(NO₃)₂ + NO₂ + H₂O. What is the mole ratio of oxidized species to reduced species in the balanced equation?",
+      "options": {
+        "A": "1 : 2",
+        "B": "1 : 4",
+        "C": "3 : 2",
+        "D": "2 : 3"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "category": "Stoichiometry and Mole Concepts",
+      "question": "A gaseous hydrocarbon occupies 560 cm³ at STP and has a mass of 1.05 g. If 1 mole of any gas occupies 22.4 dm³ at STP, identify the molecular formula of the hydrocarbon.",
+      "options": {
+        "A": "C₂H₄",
+        "B": "C₃H₆",
+        "C": "C₄H₈",
+        "D": "C₃H₈"
+      },
+      "answer": "B"
+    }
+  ]
+}
