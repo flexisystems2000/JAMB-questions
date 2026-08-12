@@ -1,0 +1,365 @@
+{
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "category": "Business Finance",
+      "question": "Which short-term source of business finance allows a company to obtain immediate cash by selling its trade debts to a financial institution at a discount?",
+      "options": {
+        "A": "Equipment Leasing",
+        "B": "Factoring",
+        "C": "Debentures",
+        "D": "Venture Capital"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "category": "Business Finance",
+      "question": "What is the primary difference between equity capital and debt capital?",
+      "options": {
+        "A": "Equity capital represents ownership and yields variable dividends, while debt capital is borrowed money with fixed interest",
+        "B": "Equity capital must be repaid within one year, whereas debt capital is permanent",
+        "C": "Equity holders receive fixed interest payments regardless of profits made",
+        "D": "Debt capital gives creditors voting rights at Annual General Meetings"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "category": "Business Finance",
+      "question": "Which source of long-term capital involves reinvesting a company's undistributed net profits back into its operations?",
+      "options": {
+        "A": "Bank Overdraft",
+        "B": "Trade Credit",
+        "C": "Retained Earnings",
+        "D": "Commercial Paper"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "category": "Business Finance",
+      "question": "A business agrees with its supplier to take delivery of inventory now and pay within 60 days. What form of short-term finance is being utilized?",
+      "options": {
+        "A": "Trade Credit",
+        "B": "Lease Financing",
+        "C": "Hire Purchase",
+        "D": "Debenture Issue"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "category": "Business Finance",
+      "question": "Which unsecured, short-term debt instrument is typically issued by large, creditworthy corporations to raise funds directly from money markets?",
+      "options": {
+        "A": "Ordinary Share",
+        "B": "Commercial Paper",
+        "C": "Mortgage Bond",
+        "D": "Preference Share"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "category": "Business Finance",
+      "question": "What financial arrangement permits a business to draw money from its current bank account beyond the available positive balance up to an agreed limit?",
+      "options": {
+        "A": "Term Loan",
+        "B": "Bank Overdraft",
+        "C": "Factoring",
+        "D": "Microfinance Grant"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "category": "Business Finance",
+      "question": "Under a hire purchase agreement, when does the buyer legally obtain ownership of the equipment or asset?",
+      "options": {
+        "A": "Immediately upon signing the agreement",
+        "B": "Upon payment of the initial deposit",
+        "C": "When half of the installments are completed",
+        "D": "Upon payment of the final installment"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "category": "Insurance",
+      "question": "Which principle of insurance prevents an insured person from profit-making by ensuring they are restored only to the financial position enjoyed immediately before the loss?",
+      "options": {
+        "A": "Insurable Interest",
+        "B": "Uberrimae Fidei",
+        "C": "Indemnity",
+        "D": "Subrogation"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "category": "Insurance",
+      "question": "If an individual attempts to insure a neighbor's house in which they have no financial stake or legal right, which fundamental insurance principle is violated?",
+      "options": {
+        "A": "Insurable Interest",
+        "B": "Proximate Cause",
+        "C": "Contribution",
+        "D": "Subrogation"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "category": "Insurance",
+      "question": "A factory insured for ₦10,000,000 under an average clause is valued at ₦15,000,000 at the time of a fire. If fire damage equals ₦6,000,000, how much will the insurer pay?",
+      "options": {
+        "A": "₦6,000,000",
+        "B": "₦4,000,000",
+        "C": "₦5,000,000",
+        "D": "₦3,000,000"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "category": "Insurance",
+      "question": "What does the insurance principle of *Uberrimae Fidei* (Utmost Good Faith) require from both the applicant and the insurer?",
+      "options": {
+        "A": "Full and honest disclosure of all material facts related to the risk being insured",
+        "B": "Transfer of legal salvage rights to the insurer after claims payment",
+        "C": "Sharing of compensation payments proportionally across multiple insurers",
+        "D": "Automatic renewal of policies every financial year"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "category": "Insurance",
+      "question": "Which insurance doctrine allows an insurer, after compensating the policyholder in full, to step into the insured's shoes and sue responsible third parties?",
+      "options": {
+        "A": "Proximate Cause",
+        "B": "Subrogation",
+        "C": "Contribution",
+        "D": "Indemnity"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "category": "Insurance",
+      "question": "Property valued at ₦8,000,000 is insured against fire with Company X for ₦4,000,000 and Company Y for ₦4,000,000. Under the principle of contribution, how is a ₦2,000,000 loss settled?",
+      "options": {
+        "A": "Company X pays ₦2,000,000 and Company Y pays ₦2,000,000",
+        "B": "Company X pays ₦1,000,000 and Company Y pays ₦1,000,000",
+        "C": "Company X pays ₦2,000,000 while Company Y pays nothing",
+        "D": "The insured receives ₦4,000,000 in total profit"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "category": "Insurance",
+      "question": "Which form of marine insurance covers damage caused to third-party vessels or property as a result of a collision at sea?",
+      "options": {
+        "A": "Hull Insurance",
+        "B": "Cargo Insurance",
+        "C": "Freight Insurance",
+        "D": "Running Down Clause"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "category": "Insurance",
+      "question": "How does Life Assurance differ fundamentally from General Non-Life Insurance?",
+      "options": {
+        "A": "Life Assurance covers events that are bound to happen eventually, whereas Non-Life Insurance covers possibilities",
+        "B": "Life Assurance operates strictly on the principle of indemnity",
+        "C": "Non-Life Insurance policies run indefinitely for a person's entire lifetime",
+        "D": "Life Assurance cannot be surrendered before maturity"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "category": "International Trade",
+      "question": "Which official commercial document, issued by a carrier, acts as a document of title, a contract of carriage, and a receipt for goods loaded onto a vessel?",
+      "options": {
+        "A": "Consular Invoice",
+        "B": "Bill of Lading",
+        "C": "Certificate of Origin",
+        "D": "Indent"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "category": "International Trade",
+      "question": "What shipping quote term signifies that the seller's price includes the cost of goods, marine insurance, and freight charges to the destination port?",
+      "options": {
+        "A": "FOB (Free on Board)",
+        "B": "FAS (Free Alongside Ship)",
+        "C": "CIF (Cost, Insurance, and Freight)",
+        "D": "EXW (Ex Works)"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "category": "International Trade",
+      "question": "Which international trade document guarantees payment to an exporter via an issuing bank upon presentation of specified shipping documents?",
+      "options": {
+        "A": "Letter of Credit",
+        "B": "Bill of Exchange",
+        "C": "Dock Warrant",
+        "D": "Export Manifest"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "category": "International Trade",
+      "question": "What custom mechanism allows an importer to store dutiable goods in a government-supervised warehouse without paying import duties until the goods are withdrawn for local consumption?",
+      "options": {
+        "A": "Customs Drawback",
+        "B": "Bonded Warehouse",
+        "C": "Free Trade Zone",
+        "D": "Entrepôt Port"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "category": "International Trade",
+      "question": "Which government policy tool explicitly sets a maximum physical quantity limit on specific goods that may be imported during a given timeframe?",
+      "options": {
+        "A": "Ad Valorem Tariff",
+        "B": "Import Quota",
+        "C": "Embargo",
+        "D": "Export Subsidy"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "category": "International Trade",
+      "question": "The re-exporting of foreign goods imported from one country to another third-party nation without substantial transformation is known as what?",
+      "options": {
+        "A": "Counter-trade",
+        "B": "Bilateral Trade",
+        "C": "Entrepôt Trade",
+        "D": "Multilateral Dumping"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "category": "International Trade",
+      "question": "What document, certified by an importing country's consul stationed in the exporting nation, verifies invoice prices to prevent customs evasion?",
+      "options": {
+        "A": "Consular Invoice",
+        "B": "Certificate of Origin",
+        "C": "Ship's Manifest",
+        "D": "Bill of Entry"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "category": "International Trade",
+      "question": "What occurs when a nation enforces a complete legal ban on the importation or exportation of specific goods or trade with a targeted country?",
+      "options": {
+        "A": "Tariff Escalation",
+        "B": "Embargo",
+        "C": "Protectionism",
+        "D": "Devaluation"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "category": "Stock Exchange and Capital Market",
+      "question": "Which market segment facilitates the initial sale and issuance of newly created securities directly from corporate or government entities to investors?",
+      "options": {
+        "A": "Secondary Market",
+        "B": "Money Market",
+        "C": "Primary Market",
+        "D": "Parallel Market"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "category": "Stock Exchange and Capital Market",
+      "question": "On the stock exchange, what term describes a speculator who buys securities expecting prices to rise, intending to sell later at a profit?",
+      "options": {
+        "A": "Bear",
+        "B": "Bull",
+        "C": "Stag",
+        "D": "Lame Duck"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "category": "Stock Exchange and Capital Market",
+      "question": "What stock market operator acts as an independent dealer by buying and selling securities in their own name, making profits from the price spread?",
+      "options": {
+        "A": "Stockbroker",
+        "B": "Jobber",
+        "C": "Registrar",
+        "D": "Underwriter"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "category": "Stock Exchange and Capital Market",
+      "question": "Which financial instrument traded on capital markets guarantees fixed interest payouts and holds prior claim over equity shares during liquidation?",
+      "options": {
+        "A": "Ordinary Share",
+        "B": "Debenture",
+        "C": "Stock Option",
+        "D": "Right Issue"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "category": "Stock Exchange and Capital Market",
+      "question": "What is the primary role of an underwriter during a new public issue of company shares?",
+      "options": {
+        "A": "Guaranteeing to purchase any unsubscribed shares remaining after the public offer closes",
+        "B": "Auditing the financial statements included in the prospectus",
+        "C": "Determining daily stock index movements on the trading floor",
+        "D": "Managing individual investor portfolios"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "category": "Stock Exchange and Capital Market",
+      "question": "What stock exchange speculator applies for large quantities of newly issued shares hoping to sell them immediately at a premium once trading opens?",
+      "options": {
+        "A": "Bear",
+        "B": "Stag",
+        "C": "Bull",
+        "D": "Broker"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "category": "Stock Exchange and Capital Market",
+      "question": "Which regulatory body exercises oversight control over the operations of stock exchanges, stockbrokers, and capital market transactions in Nigeria?",
+      "options": {
+        "A": "Central Bank of Nigeria (CBN)",
+        "B": "Securities and Exchange Commission (SEC)",
+        "C": "Nigerian Deposit Insurance Corporation (NDIC)",
+        "D": "Corporate Affairs Commission (CAC)"
+      },
+      "answer": "B"
+    }
+  ]
+}
