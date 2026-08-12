@@ -1,0 +1,365 @@
+{
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "category": "Genetics and Heredity",
+      "question": "In pea plants, tall stem (T) is dominant over dwarf stem (t), and yellow seed color (Y) is dominant over green seed color (y). What proportion of the offspring from a cross between two dihybrid plants (TtYy × TtYy) will display a phenotypically tall plant with green seeds?",
+      "options": {
+        "A": "9/16",
+        "B": "3/16",
+        "C": "1/16",
+        "D": "3/8"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "category": "Genetics and Heredity",
+      "question": "A woman with blood group A (whose father had blood group O) marries a man with blood group B (whose mother had blood group O). What is the probability that their first child will have blood group O?",
+      "options": {
+        "A": "0%",
+        "B": "50%",
+        "C": "25%",
+        "D": "75%"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "category": "Genetics and Heredity",
+      "question": "Red-green color blindness is an X-linked recessive trait in humans. If a carrier female marries a normal male, what percentage of their male offspring are expected to be color-blind?",
+      "options": {
+        "A": "50%",
+        "B": "25%",
+        "C": "100%",
+        "D": "0%"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "category": "Genetics and Heredity",
+      "question": "During meiotic prophase I, homologous chromosomes pair up and exchange genetic material. What specific structural formation is observed at the sites where crossing over has occurred?",
+      "options": {
+        "A": "Centromere",
+        "B": "Kinetochore",
+        "C": "Synaptonemal complex",
+        "D": "Chiasma"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "category": "Genetics and Heredity",
+      "question": "A double-stranded DNA molecule contains 28% adenine residues. What is the expected percentage of cytosine in this same DNA molecule according to Chargaff's rules?",
+      "options": {
+        "A": "28%",
+        "B": "22%",
+        "C": "44%",
+        "D": "56%"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "category": "Genetics and Heredity",
+      "question": "Which enzyme is responsible for unwinding the DNA double helix at the replication fork by breaking hydrogen bonds between complementary base pairs during replication?",
+      "options": {
+        "A": "DNA Helicase",
+        "B": "DNA Ligase",
+        "C": "RNA Polymerase",
+        "D": "Topoisomerase"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "category": "Genetics and Heredity",
+      "question": "If a point mutation alters a mRNA codon from 5′-UAC-3′ to 5′-UAA-3′, what type of gene mutation has occurred?",
+      "options": {
+        "A": "Silent mutation",
+        "B": "Missense mutation",
+        "C": "Nonsense mutation",
+        "D": "Frameshift mutation"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "category": "Genetics and Heredity",
+      "question": "A test cross is performed to determine the genotype of an organism exhibiting a dominant phenotype. What is the genotype of the organism with which it must be crossed?",
+      "options": {
+        "A": "Homozygous dominant",
+        "B": "Heterozygous",
+        "C": "Homozygous recessive",
+        "D": "Hemizygous dominant"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "category": "Genetics and Heredity",
+      "question": "In fruit flies (Drosophila melanogaster), gray body (B) and normal wings (V) are linked traits on the same autosome. A test cross of a dihybrid female (BbVv) yields 42% gray/normal, 42% black/vestigial, 8% gray/vestigial, and 8% black/normal. What is the map distance between these two gene loci?",
+      "options": {
+        "A": "84 cM",
+        "B": "16 cM",
+        "C": "8 cM",
+        "D": "42 cM"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "category": "Genetics and Heredity",
+      "question": "Which genetic condition results from a non-disjunction event during meiosis that leads to trisomy of chromosome 21 (47, XX or XY, +21)?",
+      "options": {
+        "A": "Klinefelter syndrome",
+        "B": "Turner syndrome",
+        "C": "Edwards syndrome",
+        "D": "Down syndrome"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "category": "Ecology and Population Studies",
+      "question": "In an ecosystem, energy transfer between successive trophic levels is inefficient. Approximately what percentage of net energy is incorporated into biomass from one trophic level to the next higher level?",
+      "options": {
+        "A": "10%",
+        "B": "50%",
+        "C": "90%",
+        "D": "1%"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "category": "Ecology and Population Studies",
+      "question": "A mark-recapture survey was conducted to estimate a pond's tilapia population. Initially, 120 fish were caught, tagged, and released. Two weeks later, a second sample of 150 fish was captured, of which 30 were found to be tagged. What is the estimated total population size (N)?",
+      "options": {
+        "A": "300",
+        "B": "450",
+        "C": "600",
+        "D": "900"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "category": "Ecology and Population Studies",
+      "question": "Which ecological interaction is characterized by an association where one species benefits while the other species is neither helped nor harmed (+ / 0)?",
+      "options": {
+        "A": "Mutualism",
+        "B": "Parasitism",
+        "C": "Amensalism",
+        "D": "Commensalism"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 14,
+      "category": "Ecology and Population Studies",
+      "question": "During primary ecological succession on a bare volcanic rock face, which group of organisms typically acts as the pioneer community?",
+      "options": {
+        "A": "Lichens and mosses",
+        "B": "Grasses and herbaceous plants",
+        "C": "Hardwood forest trees",
+        "D": "Shrubs and small bushes"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "category": "Ecology and Population Studies",
+      "question": "The logistic growth model of a population constrained by carrying capacity (K) is expressed by the differential equation dN/dt = rN[(K − N)/K]. What occurs to the population growth rate (dN/dt) when the population size (N) equals half the carrying capacity (K/2)?",
+      "options": {
+        "A": "Population growth rate drops to zero",
+        "B": "Population growth rate reaches its maximum value",
+        "C": "Population growth rate becomes negative",
+        "D": "Population growth rate remains completely constant"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "category": "Ecology and Population Studies",
+      "question": "Which abiotic factor serves as the primary limiting factor determining the zonation and structural distribution of flora in deep aquatic ecosystems?",
+      "options": {
+        "A": "Dissolved oxygen concentration",
+        "B": "Water salinity",
+        "C": "Light penetration",
+        "D": "Hydrostatic pressure"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "category": "Ecology and Population Studies",
+      "question": "Which microbial process in the nitrogen cycle involves the conversion of atmospheric nitrogen gas (N₂) into ammonia (NH₃) or ammonium ions (NH₄⁺)?",
+      "options": {
+        "A": "Nitrification",
+        "B": "Denitrification",
+        "C": "Nitrogen fixation",
+        "D": "Ammonification"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "category": "Ecology and Population Studies",
+      "question": "Species displaying an r-selected reproductive strategy are generally characterized by which set of traits?",
+      "options": {
+        "A": "Large body size, long lifespan, extensive parental care",
+        "B": "Small body size, early maturation, large offspring numbers",
+        "C": "High competitive ability, stable population size near K",
+        "D": "Low mortality rate in early life stages"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "category": "Ecology and Population Studies",
+      "question": "What ecological term describes the total functional role and structural position of a species within its habitat, including its resource utilization and environmental interactions?",
+      "options": {
+        "A": "Ecological niche",
+        "B": "Microhabitat",
+        "C": "Ecosystem biome",
+        "D": "Ecotone"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "category": "Ecology and Population Studies",
+      "question": "Biomagnification refers to the progressive increase in concentration of persistent lipophilic toxins (e.g., DDT) across food webs. At which level of an aquatic pyramid of biomass would the toxic concentration be highest?",
+      "options": {
+        "A": "Phytoplankton (Producers)",
+        "B": "Zooplankton (Primary Consumers)",
+        "C": "Small planktivorous fish (Secondary Consumers)",
+        "D": "Piscivorous fish-eating eagles (Tertiary Consumers)"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "category": "Coordination and Nervous Systems",
+      "question": "During the depolarization phase of an action potential in a myelinated motor neuron, which ion movement across the axonal membrane causes the rapid change in membrane potential from −70 mV to +30 mV?",
+      "options": {
+        "A": "Efflux of K⁺ ions through voltage-gated potassium channels",
+        "B": "Influx of Na⁺ ions through voltage-gated sodium channels",
+        "C": "Influx of Cl⁻ ions through ligand-gated chloride channels",
+        "D": "Efflux of Ca²⁺ ions via active transport pumps"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "category": "Coordination and Nervous Systems",
+      "question": "When an action potential arrives at a presynaptic axon terminal, which intracellular ion concentration increase directly triggers the exocytosis of neurotransmitter vesicles into the synaptic cleft?",
+      "options": {
+        "A": "Sodium (Na⁺)",
+        "B": "Potassium (K⁺)",
+        "C": "Calcium (Ca²⁺)",
+        "D": "Magnesium (Mg²⁺)"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "category": "Coordination and Nervous Systems",
+      "question": "Which division of the autonomic nervous system is responsible for mediating 'rest and digest' activities, such as stimulating peristalsis and decreasing heart rate?",
+      "options": {
+        "A": "Sympathetic nervous system",
+        "B": "Parasympathetic nervous system",
+        "C": "Somatic motor system",
+        "D": "Central nervous system"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "category": "Coordination and Nervous Systems",
+      "question": "Which structural region of the human brain functions as the primary integration center for autonomic regulation, temperature control, hunger, thirst, and pituitary hormone secretion?",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Medulla oblongata",
+        "C": "Thalamus",
+        "D": "Hypothalamus"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "category": "Coordination and Nervous Systems",
+      "question": "In the human eye, what light-sensitive photoreceptor cells are predominantly concentrated within the fovea centralis to provide high visual acuity and color perception in bright light?",
+      "options": {
+        "A": "Rod cells",
+        "B": "Cone cells",
+        "C": "Bipolar cells",
+        "D": "Ganglion cells"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "category": "Coordination and Nervous Systems",
+      "question": "What plant hormone synthesized in shoot apical meristems is responsible for phototropism by causing cell elongation on the shaded side of a stem?",
+      "options": {
+        "A": "Auxin (Indole-3-acetic acid)",
+        "B": "Gibberellin",
+        "C": "Abscisic acid",
+        "D": "Ethylene"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "category": "Coordination and Nervous Systems",
+      "question": "During a spinal reflex arc (such as the knee-jerk reflex), what is the correct sequential pathway of neural impulse propagation?",
+      "options": {
+        "A": "Effector → Motor Neuron → Spinal Cord → Sensory Neuron → Receptor",
+        "B": "Receptor → Sensory Neuron → Spinal Cord → Motor Neuron → Effector",
+        "C": "Receptor → Motor Neuron → Brain → Sensory Neuron → Effector",
+        "D": "Sensory Neuron → Receptor → Interneuron → Effector → Motor Neuron"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "category": "Coordination and Nervous Systems",
+      "question": "Saltatory conduction describes the rapid transmission of action potentials along myelinated axons. At which non-myelinated gaps along the axon does ion exchange take place?",
+      "options": {
+        "A": "Synaptic clefts",
+        "B": "Nodes of Ranvier",
+        "C": "Schwann cell nucleoli",
+        "D": "Axon hillocks"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "category": "Coordination and Nervous Systems",
+      "question": "Which plant hormone acts as a stress hormone by inducing stomatal closure during water deficit conditions to prevent excessive transpiration loss?",
+      "options": {
+        "A": "Cytokinin",
+        "B": "Gibberellic acid",
+        "C": "Abscisic acid (ABA)",
+        "D": "Indole-3-acetic acid"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "category": "Coordination and Nervous Systems",
+      "question": "Which part of the human hindbrain acts as the primary coordinator for skeletal muscle balance, posture, and fine motor movement precision?",
+      "options": {
+        "A": "Pons",
+        "B": "Cerebrum",
+        "C": "Cerebellum",
+        "D": "Corpus callosum"
+      },
+      "answer": "C"
+    }
+  ]
+}
