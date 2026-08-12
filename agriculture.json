@@ -1,0 +1,365 @@
+{
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "category": "Genetics and Plant Breeding",
+      "question": "What cross ratio is expected in the F₂ generation of a classic Mendelian monohybrid cross when two heterozygous individuals (Aa × Aa) mate?",
+      "options": {
+        "A": "1:2:1 phenotypic ratio",
+        "B": "3:1 phenotypic ratio",
+        "C": "9:3:3:1 phenotypic ratio",
+        "D": "1:1 phenotypic ratio"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "category": "Genetics and Plant Breeding",
+      "question": "Which plant breeding method involves crossing two genetically distinct inbred lines to produce offspring displaying superior performance and vigor over both parents?",
+      "options": {
+        "A": "Mass selection",
+        "B": "Hybridization (Heterosis)",
+        "C": "Pedigree breeding",
+        "D": "Pure-line selection"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "category": "Genetics and Plant Breeding",
+      "question": "What biological term describes an organism that possesses three or more complete sets of chromosomes (e.g., 3n, 4n, 6n) in its somatic cells?",
+      "options": {
+        "A": "Haploid",
+        "B": "Aneuploid",
+        "C": "Polyploid",
+        "D": "Diploid"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "category": "Genetics and Plant Breeding",
+      "question": "In crop genetics, what is the process called where deliberate genetic modifications are induced by exposing seeds to mutagenic chemicals or ionizing radiation?",
+      "options": {
+        "A": "Mutation breeding",
+        "B": "Gene splicing",
+        "C": "Tissue culture",
+        "D": "Clonal propagation"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "category": "Genetics and Plant Breeding",
+      "question": "What is the primary physical carrier of genetic information located inside the nucleus of plant cells?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Mitochondrion",
+        "C": "Chromosome",
+        "D": "Vacuole"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "category": "Genetics and Plant Breeding",
+      "question": "Which term describes alternative forms of a specific gene occupying the same locus on homologous chromosomes?",
+      "options": {
+        "A": "Genomes",
+        "B": "Alleles",
+        "C": "Chromatids",
+        "D": "Phenotypes"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "category": "Genetics and Plant Breeding",
+      "question": "A crop plant with the genotype 'TT' for tallness is crossed with a dwarf plant with 'tt'. What percentage of the F₁ generation will express the tall phenotype if tallness is completely dominant?",
+      "options": {
+        "A": "100%",
+        "B": "50%",
+        "C": "75%",
+        "D": "25%"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "category": "Farm Management and Economics",
+      "question": "In farm enterprise budget analysis, how are fixed costs defined?",
+      "options": {
+        "A": "Costs that vary directly with changes in the scale of production",
+        "B": "Costs incurred regardless of whether production takes place or not",
+        "C": "The value of alternative choices forgone when allocating farm resources",
+        "D": "Costs associated exclusively with harvesting operational units"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "category": "Farm Management and Economics",
+      "question": "According to the Law of Diminishing Returns in farm production, what happens as additional units of a variable input (e.g., fertilizer) are added to fixed resources?",
+      "options": {
+        "A": "Total output continues to rise at an increasing rate indefinitely",
+        "B": "Marginal physical product eventually decreases",
+        "C": "Average product drops immediately to zero",
+        "D": "Total variable cost drops to zero"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "category": "Farm Management and Economics",
+      "question": "What financial accounting statement summarizes a farm business's total assets, total liabilities, and net worth at a specific point in time?",
+      "options": {
+        "A": "Cash Flow Statement",
+        "B": "Profit and Loss Account",
+        "C": "Balance Sheet",
+        "D": "Enterprise Budget"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "category": "Farm Management and Economics",
+      "question": "If a farmer forfeits cultivating cassava yielding ₦400,000 net profit in order to cultivate maize yielding ₦350,000 net profit, what is the opportunity cost of choosing maize?",
+      "options": {
+        "A": "₦50,000",
+        "B": "₦400,000",
+        "C": "₦350,000",
+        "D": "₦750,000"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "category": "Farm Management and Economics",
+      "question": "Which expenditure is classified as a variable cost in layer poultry farm management?",
+      "options": {
+        "A": "Depreciation cost of battery cages",
+        "B": "Feed purchases",
+        "C": "Insurance premiums on farm buildings",
+        "D": "Land lease fees"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "category": "Farm Management and Economics",
+      "question": "What farm record documents daily field operations, labor usage, weather conditions, and operational activities?",
+      "options": {
+        "A": "Farm Diary / Logbook",
+        "B": "Inventory Register",
+        "C": "Valuation Record",
+        "D": "Master Payroll"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "category": "Farm Management and Economics",
+      "question": "In farm finance, how is farm Net Worth or Equity calculated on a Balance Sheet?",
+      "options": {
+        "A": "Total Assets − Total Liabilities",
+        "B": "Gross Revenue − Total Operating Expenses",
+        "C": "Fixed Capital + Variable Costs",
+        "D": "Current Assets ÷ Short-term Liabilities"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "category": "Animal Nutrition",
+      "question": "Which feed nutrient serves as the principal component for muscle tissue development, repair, enzyme production, and growth in livestock?",
+      "options": {
+        "A": "Carbohydrate",
+        "B": "Crude Fiber",
+        "C": "Crude Protein",
+        "D": "Lipid (Fat)"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 16,
+      "category": "Animal Nutrition",
+      "question": "Which stomach compartment in ruminant animals (e.g., cattle, sheep) contains dense microbial populations responsible for fermenting cellulose and fiber?",
+      "options": {
+        "A": "Abomasum",
+        "B": "Rumen",
+        "C": "Omasum",
+        "D": "Reticulum"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "category": "Animal Nutrition",
+      "question": "What deficiency disease manifests in egg-laying hens receiving rations inadequate in calcium and Vitamin D₃?",
+      "options": {
+        "A": "Nutritional anemia",
+        "B": "Soft-shelled eggs and rickets",
+        "C": "Curled-toe paralysis",
+        "D": "Goiter"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "category": "Animal Nutrition",
+      "question": "Which essential fat-soluble vitamin plays a crucial role in maintaining livestock vision, epithelial integrity, and mucosal surface protection?",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin C",
+        "C": "Vitamin K",
+        "D": "Vitamin B₁₂"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "category": "Animal Nutrition",
+      "question": "What feed ingredient serves as a primary energy concentrate source in monogastric livestock feed formulations?",
+      "options": {
+        "A": "Soybean meal",
+        "B": "Yellow maize",
+        "C": "Fish meal",
+        "D": "Bone meal"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "category": "Animal Nutrition",
+      "question": "What digestive organ in poultry performs mechanical grinding of ingested feed particles with the help of swallowed grit?",
+      "options": {
+        "A": "Crop",
+        "B": "Proventriculus",
+        "C": "Gizzard (Ventriculus)",
+        "D": "Caecum"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "category": "Animal Nutrition",
+      "question": "What term describes the feed ration designed solely to keep an animal alive and at a constant body weight without gain or loss in productivity?",
+      "options": {
+        "A": "Production ration",
+        "B": "Maintenance ration",
+        "C": "Balanced ration",
+        "D": "Fattening ration"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "category": "Animal Nutrition",
+      "question": "Which macro-mineral is essential alongside phosphorus for sound skeletal development, bone matrix formation, and eggshell production?",
+      "options": {
+        "A": "Calcium",
+        "B": "Iron",
+        "C": "Zinc",
+        "D": "Selenium"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "category": "Soil Science and Fertility",
+      "question": "Which soil particle fraction possesses the smallest physical diameter (< 0.002 mm) and demonstrates high Cation Exchange Capacity (CEC)?",
+      "options": {
+        "A": "Coarse sand",
+        "B": "Silt",
+        "C": "Clay",
+        "D": "Fine sand"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "category": "Soil Science and Fertility",
+      "question": "Which essential plant macronutrient is primarily responsible for promoting healthy root development, early maturity, and fruit/seed formation?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Phosphorus",
+        "C": "Potassium",
+        "D": "Magnesium"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "category": "Soil Science and Fertility",
+      "question": "What biological process converts atmospheric elemental nitrogen (N₂) into plant-absorbable forms via *Rhizobium* bacteria in legume root nodules?",
+      "options": {
+        "A": "Nitrification",
+        "B": "Denitrification",
+        "C": "Symbiotic Nitrogen Fixation",
+        "D": "Ammonification"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "category": "Soil Science and Fertility",
+      "question": "What chemical soil amendment is most commonly applied to neutralize strongly acidic soils and raise soil pH toward neutral levels?",
+      "options": {
+        "A": "Agricultural Lime (Calcium Carbonate)",
+        "B": "Elemental Sulfur",
+        "C": "Ammonium Sulfate",
+        "D": "Urea"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "category": "Soil Science and Fertility",
+      "question": "A 50 kg bag of compound fertilizer is labeled N-P-K 15-15-15. How many kilograms of actual nitrogen (N) are contained in the bag?",
+      "options": {
+        "A": "15 kg",
+        "B": "7.5 kg",
+        "C": "30 kg",
+        "D": "22.5 kg"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "category": "Soil Science and Fertility",
+      "question": "Which term describes the movement of dissolved mineral nutrients down through the soil profile beyond the reach of plant roots due to excessive drainage?",
+      "options": {
+        "A": "Capillarity",
+        "B": "Leaching",
+        "C": "Surface Runoff",
+        "D": "Evapotranspiration"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "category": "Soil Science and Fertility",
+      "question": "What nutrient deficiency symptom causes yellowing of older leaves (chlorosis) due to the plant's inability to synthesize chlorophyll efficiently?",
+      "options": {
+        "A": "Nitrogen deficiency",
+        "B": "Phosphorus deficiency",
+        "C": "Calcium deficiency",
+        "D": "Boron deficiency"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "category": "Soil Science and Fertility",
+      "question": "What is the term for dark, decomposed organic matter in soil that improves water retention, soil structure, and nutrient availability?",
+      "options": {
+        "A": "Parent material",
+        "B": "Humus",
+        "C": "Regolith",
+        "D": "Hardpan"
+      },
+      "answer": "B"
+    }
+  ]
+}
