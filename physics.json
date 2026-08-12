@@ -1,0 +1,365 @@
+{
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "category": "Electricity and Circuits",
+      "question": "A cell of e.m.f. E and internal resistance r is connected across a variable resistor R. What is the condition for maximum power dissipation in R, and what is the maximum power dissipated?",
+      "options": {
+        "A": "R = r and P_max = E²/(4r)",
+        "B": "R = 2r and P_max = E²/(2r)",
+        "C": "R = r/2 and P_max = E²/r",
+        "D": "R = r and P_max = E²/(2r)"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "category": "Electricity and Circuits",
+      "question": "Two uniform wires X and Y of the same material have lengths in the ratio 2:3 and radii in the ratio 1:2. If they are connected in parallel across a constant potential difference, calculate the ratio of current flowing through X to that through Y.",
+      "options": {
+        "A": "3:8",
+        "B": "8:3",
+        "C": "2:3",
+        "D": "3:2"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "category": "Electricity and Circuits",
+      "question": "In a balanced Wheatstone bridge, the four arms have resistances R₁ = 10 Ω, R₂ = 20 Ω, R₃ = 30 Ω, and R₄ = 60 Ω. If a 12 V battery with negligible internal resistance is connected across the bridge input, calculate the current drawn from the battery.",
+      "options": {
+        "A": "0.30 A",
+        "B": "0.50 A",
+        "C": "0.40 A",
+        "D": "0.60 A"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "category": "Electricity and Circuits",
+      "question": "A parallel-plate capacitor with air dielectric has capacitance C. If the separation between the plates is doubled and a dielectric slab of dielectric constant κ = 6 is inserted to completely fill the space, what is the new capacitance?",
+      "options": {
+        "A": "12C",
+        "B": "2C",
+        "C": "6C",
+        "D": "3C"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "category": "Electricity and Circuits",
+      "question": "A 100 Ω resistor, a 0.5 H inductor, and a 10 μF capacitor are connected in series to an A.C. source given by V = 200√2 sin(100t) V. Calculate the peak current flowing through the circuit.",
+      "options": {
+        "A": "0.20 A",
+        "B": "0.28 A",
+        "C": "0.14 A",
+        "D": "0.40 A"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "category": "Electricity and Circuits",
+      "question": "A copper wire carries a current of 5.0 A. If the charge density of free electrons in copper is 8.5 × 10²⁸ m⁻³ and the cross-sectional area of the wire is 1.0 × 10⁻⁶ m², calculate the drift velocity of the electrons. (e = 1.6 × 10⁻¹⁹ C)",
+      "options": {
+        "A": "3.68 × 10⁻⁴ m s⁻¹",
+        "B": "5.21 × 10⁻⁵ m s⁻¹",
+        "C": "1.47 × 10⁻³ m s⁻¹",
+        "D": "7.35 × 10⁻⁴ m s⁻¹"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "category": "Electricity and Circuits",
+      "question": "Three identical capacitors each of capacitance 6 μF are connected such that two are in parallel and the combination is in series with the third. What is the effective capacitance of the arrangement?",
+      "options": {
+        "A": "18 μF",
+        "B": "9 μF",
+        "C": "4 μF",
+        "D": "2 μF"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "category": "Electromagnetic Inductions",
+      "question": "A circular loop of radius 0.1 m and resistance 2.0 Ω is placed perpendicular to a uniform magnetic field. The magnetic field decreases at a steady rate of 0.5 T s⁻¹. Determine the induced current in the loop.",
+      "options": {
+        "A": "7.85 mA",
+        "B": "15.7 mA",
+        "C": "31.4 mA",
+        "D": "3.93 mA"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "category": "Electromagnetic Inductions",
+      "question": "A square conducting coil of side 20 cm having 50 turns is rotated at 300 r.p.m. about an axis perpendicular to a magnetic field of 0.1 T. Calculate the maximum e.m.f. induced in the coil.",
+      "options": {
+        "A": "3.14 V",
+        "B": "6.28 V",
+        "C": "1.57 V",
+        "D": "12.56 V"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "category": "Electromagnetic Inductions",
+      "question": "An ideal step-down transformer transforms 2200 V to 220 V. If the primary winding has 2000 turns and the output power is 4.4 kW, calculate the primary current.",
+      "options": {
+        "A": "20 A",
+        "B": "2.0 A",
+        "C": "0.2 A",
+        "D": "10 A"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "category": "Electromagnetic Inductions",
+      "question": "A metal rod of length 0.5 m rotates in a horizontal plane about one of its ends with an angular speed of 40 rad s⁻¹ in a vertical magnetic field of 0.2 T. What is the induced e.m.f. between the center and the end of the rod?",
+      "options": {
+        "A": "0.5 V",
+        "B": "2.0 V",
+        "C": "1.0 V",
+        "D": "4.0 V"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "category": "Electromagnetic Inductions",
+      "question": "When the current in a coil changes uniformly from 10 A to 2 A in 0.1 s, an e.m.f. of 16 V is induced in a neighboring coil. What is the mutual inductance between the two coils?",
+      "options": {
+        "A": "0.1 Hamilton",
+        "B": "0.2 H",
+        "C": "0.8 H",
+        "D": "1.6 H"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "category": "Electromagnetic Inductions",
+      "question": "The energy stored in a 0.2 H inductor carrying a steady current of 5 A is equal to:",
+      "options": {
+        "A": "1.0 J",
+        "B": "0.5 J",
+        "C": "5.0 J",
+        "D": "2.5 J"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 14,
+      "category": "Electromagnetic Inductions",
+      "question": "According to Lenz's law, the direction of an induced current is always such that it opposes the change in magnetic flux that causes it. This phenomenon is a direct consequence of the law of conservation of:",
+      "options": {
+        "A": "Charge",
+        "B": "Linear Momentum",
+        "C": "Energy",
+        "D": "Angular Momentum"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "category": "Mechanics and Projectile Motion",
+      "question": "A projectile is launched from ground level with an initial velocity u at an angle θ above the horizontal. If its maximum height reached equals its horizontal range, what is the angle of projection θ?",
+      "options": {
+        "A": "tan⁻¹(4)",
+        "B": "tan⁻¹(1)",
+        "C": "tan⁻¹(2)",
+        "D": "tan⁻¹(1/4)"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "category": "Mechanics and Projectile Motion",
+      "question": "A body of mass 2 kg is projected from the ground with velocity 20 m s⁻¹ at an angle of 30° to the horizontal. Calculate the kinetic energy of the body at the highest point of its trajectory. (g = 10 m s⁻²)",
+      "options": {
+        "A": "100 J",
+        "B": "300 J",
+        "C": "200 J",
+        "D": "400 J"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "category": "Mechanics and Projectile Motion",
+      "question": "A particle moves along a straight line such that its displacement x at time t is given by x = 2t³ − 9t² + 12t − 4. At what time t is the acceleration of the particle zero?",
+      "options": {
+        "A": "2.0 s",
+        "B": "1.0 s",
+        "C": "1.5 s",
+        "D": "3.0 s"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "category": "Mechanics and Projectile Motion",
+      "question": "A block of mass 5 kg slides down a rough plane inclined at 30° to the horizontal with a uniform acceleration of 1.0 m s⁻². Taking g = 10 m s⁻², calculate the coefficient of kinetic friction between the block and the plane.",
+      "options": {
+        "A": "0.58",
+        "B": "0.46",
+        "C": "0.35",
+        "D": "0.23"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "category": "Mechanics and Projectile Motion",
+      "question": "A shell of mass 10 kg moving horizontally at 100 m s⁻¹ explodes into two equal fragments. If one fragment continues to move forward along the original direction at 160 m s⁻¹, calculate the velocity of the second fragment.",
+      "options": {
+        "A": "40 m s⁻¹ in the forward direction",
+        "B": "40 m s⁻¹ in the backward direction",
+        "C": "20 m s⁻¹ in the forward direction",
+        "D": "60 m s⁻¹ in the backward direction"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "category": "Mechanics and Projectile Motion",
+      "question": "A flywheel of moment of inertia 4.0 kg m² accelerates uniformly from rest to an angular speed of 30 rad s⁻¹ in 6.0 s. What is the net torque exerted on the flywheel during this interval?",
+      "options": {
+        "A": "10 N m",
+        "B": "15 N m",
+        "C": "20 N m",
+        "D": "120 N m"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "category": "Mechanics and Projectile Motion",
+      "question": "A satellite of mass m orbits the Earth at an altitude equal to the Earth's radius R_E. If g is the acceleration due to gravity on the Earth's surface, what is the orbital speed of the satellite?",
+      "options": {
+        "A": "√(g R_E)",
+        "B": "√(g R_E / 2)",
+        "C": "√(2 g R_E)",
+        "D": "2 √(g R_E)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "category": "Mechanics and Projectile Motion",
+      "question": "Two masses m₁ = 3 kg and m₂ = 2 kg are connected over a smooth light pulley by a light inextensible string in an Atwood machine. Taking g = 10 m s⁻², calculate the tension in the string during motion.",
+      "options": {
+        "A": "12 N",
+        "B": "20 N",
+        "C": "24 N",
+        "D": "30 N"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "category": "Waves and Optics",
+      "question": "A progressive transverse wave is represented by y = 0.05 sin(200πt − 0.5πx), where x and y are in meters and t is in seconds. What is the speed of propagation of the wave?",
+      "options": {
+        "A": "100 m s⁻¹",
+        "B": "200 m s⁻¹",
+        "C": "400 m s⁻¹",
+        "D": "50 m s⁻¹"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "category": "Waves and Optics",
+      "question": "A sound source moves toward a stationary observer at a speed equal to one-fifth the speed of sound in air. What is the ratio of the frequency heard by the observer to the true frequency of the source?",
+      "options": {
+        "A": "4:5",
+        "B": "5:4",
+        "C": "6:5",
+        "D": "5:6"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "category": "Waves and Optics",
+      "question": "In Young's double-slit experiment, monochromatic light of wavelength 600 nm falls on slits separated by 0.2 mm. If the interference fringes are observed on a screen 1.5 m away, calculate the fringe width.",
+      "options": {
+        "A": "4.5 mm",
+        "B": "2.25 mm",
+        "C": "9.0 mm",
+        "D": "1.25 mm"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "category": "Waves and Optics",
+      "question": "A convex lens of focal length 15 cm forms a real image three times the size of the object. How far is the object positioned from the lens?",
+      "options": {
+        "A": "10 cm",
+        "B": "20 cm",
+        "C": "30 cm",
+        "D": "15 cm"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "category": "Waves and Optics",
+      "question": "A glass prism of refracting angle 60° produces a minimum deviation of 30°. Calculate the refractive index of the glass material.",
+      "options": {
+        "A": "1.414",
+        "B": "1.500",
+        "C": "1.732",
+        "D": "1.333"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "category": "Waves and Optics",
+      "question": "Unpolarized light passes through two ideal polaroids placed in sequence. If the transmission axis of the second polaroid is inclined at 30° to that of the first, what fraction of the incident unpolarized light intensity is transmitted through the pair?",
+      "options": {
+        "A": "3/8",
+        "B": "3/4",
+        "C": "1/4",
+        "D": "1/2"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "category": "Waves and Optics",
+      "question": "An open organ pipe of length 0.8 m produces a fundamental frequency f. If one end of the pipe is closed, what will be the new fundamental frequency of the closed pipe?",
+      "options": {
+        "A": "2f",
+        "B": "f / 2",
+        "C": "f",
+        "D": "f / 4"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "category": "Waves and Optics",
+      "question": "A astronomical telescope has an objective lens of focal length 100 cm and an eyepiece of focal length 4 cm. What is the total length of the telescope tube in normal adjustment, and its magnifying power?",
+      "options": {
+        "A": "Length = 104 cm, Magnification = 25",
+        "B": "Length = 96 cm, Magnification = 25",
+        "C": "Length = 104 cm, Magnification = 400",
+        "D": "Length = 400 cm, Magnification = 25"
+      },
+      "answer": "A"
+    }
+  ]
+}
