@@ -1,0 +1,365 @@
+{
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "category": "Partnership Accounts",
+      "question": "In the absence of a formal partnership deed, how are profits and losses shared among partners according to the provisions of the Partnership Act?",
+      "options": {
+        "A": "In proportion to partners' capital contributions",
+        "B": "Equally among all partners",
+        "C": "In proportion to partners' total drawings",
+        "D": "Based on years of service to the firm"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "category": "Partnership Accounts",
+      "question": "A and B are partners sharing profits in the ratio 3:2. They admit C as a new partner for a 1/5 share in profits. What is the new profit-sharing ratio among A, B, and C?",
+      "options": {
+        "A": "12:8:5",
+        "B": "3:2:1",
+        "C": "12:9:4",
+        "D": "9:6:5"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "category": "Partnership Accounts",
+      "question": "When a firm maintains fixed capital accounts, in which account is a partner's share of net profit, interest on capital, and drawings recorded?",
+      "options": {
+        "A": "Capital Account",
+        "B": "Current Account",
+        "C": "Profit and Loss Appropriation Account",
+        "D": "Revaluation Account"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "category": "Partnership Accounts",
+      "question": "Upon the admission of a new partner, goodwill is evaluated at ₦50,000, but the partners decide not to open a goodwill account in the financial books. What accounting entry records this adjustment?",
+      "options": {
+        "A": "Debit Goodwill Account ₦50,000; Credit Old Partners' Capital Accounts in old ratio ₦50,000",
+        "B": "Debit All Partners' Capital Accounts in new ratio ₦50,000; Credit Goodwill Account ₦50,000",
+        "C": "Debit New Partner's Capital Account; Credit Old Partners' Capital Accounts in sacrificing ratio",
+        "D": "Debit Realization Account ₦50,000; Credit Bank Account ₦50,000"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "category": "Partnership Accounts",
+      "question": "Upon the dissolution of a partnership firm, where is the gain or loss resulting from the realization of assets and settlement of liabilities transferred?",
+      "options": {
+        "A": "Trading Account",
+        "B": "Partners' Current Accounts",
+        "C": "Partners' Capital Accounts",
+        "D": "Profit and Loss Account"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "category": "Partnership Accounts",
+      "question": "Interest on a partner's loan to the firm, in the absence of an explicit agreement, is charged at what statutory rate per annum?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "6%",
+        "D": "0%"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "category": "Partnership Accounts",
+      "question": "If total assets during a partnership dissolution realize ₦120,000, total external liabilities are ₦40,000, and dissolution expenses equal ₦5,000, what is the net realization surplus or deficit if book value of assets was ₦100,000?",
+      "options": {
+        "A": "Surplus of ₦15,000",
+        "B": "Deficit of ₦25,000",
+        "C": "Surplus of ₦20,000",
+        "D": "Deficit of ₦5,000"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "category": "Company Accounts",
+      "question": "Which component of share capital represents the maximum nominal value of shares a limited liability company is legally authorized to issue according to its Memorandum of Association?",
+      "options": {
+        "A": "Issued Capital",
+        "B": "Called-Up Capital",
+        "C": "Authorized (Nominal) Capital",
+        "D": "Paid-Up Capital"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "category": "Company Accounts",
+      "question": "When shares are issued at a premium, into which account is the excess amount received over the face value credited?",
+      "options": {
+        "A": "Capital Reserve Account",
+        "B": "Share Premium Account",
+        "C": "General Reserve Account",
+        "D": "Retained Earnings Account"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "category": "Company Accounts",
+      "question": "A company issues 10,000 ordinary shares of ₦1.00 each at ₦1.20. All application monies are received. What amount is credited to the Ordinary Share Capital account?",
+      "options": {
+        "A": "₦12,000",
+        "B": "₦10,000",
+        "C": "₦2,000",
+        "D": "₦8,000"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "category": "Company Accounts",
+      "question": "Which type of preference share entitles the holder to claim unpaid cumulative dividends from prior unprofitable years before any ordinary dividend is distributed?",
+      "options": {
+        "A": "Participating Preference Shares",
+        "B": "Redeemable Preference Shares",
+        "C": "Cumulative Preference Shares",
+        "D": "Convertible Preference Shares"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "category": "Company Accounts",
+      "question": "When debentures are issued at a discount, how is the discount on issue of debentures presented on the financial statements until written off?",
+      "options": {
+        "A": "As a non-current liability",
+        "B": "As a deduction from equity reserves or an asset/fictitious asset write-off item",
+        "C": "As an operating cash inflow",
+        "D": "As part of trade payables"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "category": "Company Accounts",
+      "question": "Where are proposed dividends and corporate taxation transfers recorded in a company's financial statements?",
+      "options": {
+        "A": "Manufacturing Account",
+        "B": "Trading Account",
+        "C": "Profit and Loss Appropriation Account / Statement of Changes in Equity",
+        "D": "General Operating Expense Ledger"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "category": "Company Accounts",
+      "question": "Which financial metric measures the proportion of earnings retained in the business relative to total profits generated after tax?",
+      "options": {
+        "A": "Dividend Yield Ratio",
+        "B": "Plowback (Retention) Ratio",
+        "C": "Earnings Per Share (EPS)",
+        "D": "Price-Earnings Ratio"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "category": "Company Accounts",
+      "question": "What is the primary characteristic of debentures compared to ordinary shares?",
+      "options": {
+        "A": "Debentures carry voting rights at Annual General Meetings",
+        "B": "Debenture interest is a fixed charge against profit, regardless of profitability",
+        "C": "Debenture holders receive variable dividends based on net earnings",
+        "D": "Debentures form part of ownership equity"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "category": "Incomplete Records",
+      "question": "Under single entry bookkeeping, how is net profit or loss calculated for a accounting period using the Statement of Affairs method?",
+      "options": {
+        "A": "Closing Capital + Drawings − Additional Capital Introduced − Opening Capital",
+        "B": "Opening Capital + Drawings + Additional Capital Introduced − Closing Capital",
+        "C": "Closing Capital − Drawings + Additional Capital Introduced − Opening Capital",
+        "D": "Total Sales − Total Purchases − Operating Expenses"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "category": "Incomplete Records",
+      "question": "A sole trader starts the year with assets of ₦80,000 and liabilities of ₦30,000. At the end of the year, assets are ₦110,000 and liabilities are ₦40,000. During the year, drawings were ₦15,000 and additional capital introduced was ₦5,000. What is the net profit?",
+      "options": {
+        "A": "₦30,000",
+        "B": "₦20,000",
+        "C": "₦25,000",
+        "D": "₦35,000"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "category": "Incomplete Records",
+      "question": "In single entry accounting, how can total credit sales for the period be deduced when constructing a Total Debtors Account?",
+      "options": {
+        "A": "Closing Debtors + Cash Received from Debtors + Discounts Allowed − Opening Debtors",
+        "B": "Opening Debtors + Cash Received from Debtors − Closing Debtors",
+        "C": "Closing Debtors − Bad Debts Written Off − Opening Debtors",
+        "D": "Opening Debtors + Total Receipts − Returns Outwards"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "category": "Incomplete Records",
+      "question": "Given Opening Creditors ₦12,000, Payments to Creditors ₦45,000, Discount Received ₦2,000, and Closing Creditors ₦15,000, what is the value of total credit purchases?",
+      "options": {
+        "A": "₦50,000",
+        "B": "₦46,000",
+        "C": "₦52,000",
+        "D": "₦40,000"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "category": "Incomplete Records",
+      "question": "A trader maintains a uniform markup of 25% on cost. If total sales for the period equal ₦100,000, what is the gross profit amount?",
+      "options": {
+        "A": "₦25,000",
+        "B": "₦20,000",
+        "C": "₦30,000",
+        "D": "₦15,000"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "category": "Incomplete Records",
+      "question": "What primary financial statement is constructed in single entry systems to ascertain the capital position of a business at a specific date?",
+      "options": {
+        "A": "Trial Balance",
+        "B": "Statement of Affairs",
+        "C": "Bank Reconciliation Statement",
+        "D": "Cash Flow Statement"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "category": "Incomplete Records",
+      "question": "If a business has a margin of 20% on sales revenue and total cost of goods sold is ₦80,000, what is the total sales revenue?",
+      "options": {
+        "A": "₦100,000",
+        "B": "₦96,000",
+        "C": "₦105,000",
+        "D": "₦120,000"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "category": "Manufacturing Account",
+      "question": "In a manufacturing account, what items aggregate to constitute Prime Cost?",
+      "options": {
+        "A": "Direct Materials + Direct Labor + Direct Expenses",
+        "B": "Direct Materials + Factory Overheads",
+        "C": "Raw Materials Consumed + Work-in-Progress Opening",
+        "D": "Direct Labor + Factory Administration Expenses"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "category": "Manufacturing Account",
+      "question": "Given: Opening Stock of Raw Materials ₦15,000, Purchases of Raw Materials ₦60,000, Carriage Inwards on Raw Materials ₦3,000, and Closing Stock of Raw Materials ₦12,000. What is the Cost of Raw Materials Consumed?",
+      "options": {
+        "A": "₦66,000",
+        "B": "₦63,000",
+        "C": "₦69,000",
+        "D": "₦58,000"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "category": "Manufacturing Account",
+      "question": "How are opening and closing stocks of Work-in-Progress (WIP) adjusted in a Manufacturing Account?",
+      "options": {
+        "A": "Opening WIP is added to, and Closing WIP is deducted from, overall manufacturing costs before arriving at production cost",
+        "B": "Opening WIP is deducted from Prime Cost, and Closing WIP is added to Factory Overheads",
+        "C": "Both Opening and Closing WIP are debited directly to the Trading Account",
+        "D": "They are credited to the Profit and Loss Account as administrative income"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "category": "Manufacturing Account",
+      "question": "Which expense item is classified as a factory overhead rather than a prime cost element?",
+      "options": {
+        "A": "Royalties paid per unit produced",
+        "B": "Direct wages of assembly line workers",
+        "C": "Factory supervisor salary",
+        "D": "Raw materials purchased"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "category": "Manufacturing Account",
+      "question": "A firm manufactures goods at a total production cost of ₦200,000 and transfers them to the trading department at a market value of ₦230,000. How is the ₦30,000 manufacturing profit treated?",
+      "options": {
+        "A": "Debited to the Manufacturing Account and Credited to the Profit and Loss Account",
+        "B": "Credited to the Trading Account as cost of goods sold",
+        "C": "Deducted from closing finished goods inventory on the Balance Sheet",
+        "D": "Debited directly to the Capital Account"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "category": "Manufacturing Account",
+      "question": "If Prime Cost is ₦140,000, Factory Overheads are ₦50,000, Opening Work-in-Progress is ₦10,000, and Closing Work-in-Progress is ₦15,000, what is the Production Cost of finished goods?",
+      "options": {
+        "A": "₦185,000",
+        "B": "₦195,000",
+        "C": "₦200,000",
+        "D": "₦175,000"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "category": "Manufacturing Account",
+      "question": "Where is the final cost of production transferred from the Manufacturing Account at the end of the financial period?",
+      "options": {
+        "A": "Debit side of the Trading Account",
+        "B": "Credit side of the Profit and Loss Account",
+        "C": "Asset side of the Balance Sheet",
+        "D": "Credit side of the Manufacturing Profit Account"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "category": "Manufacturing Account",
+      "question": "When manufactured goods transferred to the trading department include a manufacturing profit, an adjustment for unrealized profit must be made against which inventory item at year-end?",
+      "options": {
+        "A": "Closing Stock of Raw Materials",
+        "B": "Closing Stock of Finished Goods",
+        "C": "Closing Work-in-Progress",
+        "D": "Factory Loose Tools"
+      },
+      "answer": "B"
+    }
+  ]
+}
