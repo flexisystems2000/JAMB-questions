@@ -1,0 +1,365 @@
+{
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "category": "Elasticity of Demand and Supply",
+      "question": "If a 10% increase in the price of good X leads to a 15% decrease in the quantity demanded of good X, what is the absolute price elasticity of demand (E_d), and how is demand classified?",
+      "options": {
+        "A": "E_d = 0.67, Inelastic",
+        "B": "E_d = 1.50, Elastic",
+        "C": "E_d = 1.00, Unitary",
+        "D": "E_d = 2.50, Perfectly Elastic"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "category": "Elasticity of Demand and Supply",
+      "question": "When the income elasticity of demand (E_y) for a commodity is measured to be −0.8, what economic classification does this commodity belong to?",
+      "options": {
+        "A": "Luxury good",
+        "B": "Normal good",
+        "C": "Inferior good",
+        "D": "Giffen good"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "category": "Elasticity of Demand and Supply",
+      "question": "If the cross-price elasticity of demand (E_xy) between two goods, X and Y, is positive (+1.4), how are goods X and Y related in consumption?",
+      "options": {
+        "A": "They are substitute goods",
+        "B": "They are complementary goods",
+        "C": "They are independent goods",
+        "D": "They are luxury goods"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "category": "Elasticity of Demand and Supply",
+      "question": "A producer faces a perfectly inelastic supply curve (E_s = 0) in the immediate market period. What graphical shape does this supply curve take?",
+      "options": {
+        "A": "Horizontal line parallel to the quantity axis",
+        "B": "Vertical line parallel to the price axis",
+        "C": "Upward sloping line passing through the origin",
+        "D": "Rectangular hyperbola"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "category": "Elasticity of Demand and Supply",
+      "question": "If a firm operates along a linear downward-sloping demand curve, at what point along the curve is total revenue (TR) maximized?",
+      "options": {
+        "A": "Where price elasticity of demand E_d > 1",
+        "B": "Where price elasticity of demand E_d = 0",
+        "C": "Where price elasticity of demand E_d = 1",
+        "D": "Where price elasticity of demand E_d < 1"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "category": "Elasticity of Demand and Supply",
+      "question": "The market supply function for a commodity is given as Q_s = −20 + 4P. What is the price elasticity of supply when the market price P = ₦10?",
+      "options": {
+        "A": "2.0",
+        "B": "1.0",
+        "C": "0.5",
+        "D": "1.5"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "category": "Elasticity of Demand and Supply",
+      "question": "When an ad valorem tax is levied on a commodity with relatively price-inelastic demand and price-elastic supply, who bears the larger share of the tax burden?",
+      "options": {
+        "A": "The producer",
+        "B": "The consumer",
+        "C": "The government",
+        "D": "The distributor"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "category": "National Income",
+      "question": "Which accounting component differentiates Gross National Product (GNP) from Gross Domestic Product (GDP)?",
+      "options": {
+        "A": "Net Property Income from Abroad (NPIA)",
+        "B": "Capital Consumption Allowance (Depreciation)",
+        "C": "Net Indirect Taxes",
+        "D": "Transfer Payments"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "category": "National Income",
+      "question": "Given a closed economy without government intervention, where consumption is C = 100 + 0.75Y and investment is I = 50, what is the equilibrium level of national income (Y)?",
+      "options": {
+        "A": "₦400",
+        "B": "₦200",
+        "C": "₦600",
+        "D": "₦800"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "category": "National Income",
+      "question": "If the marginal propensity to consume (MPC) in an economy is 0.80, what is the numerical value of the simple Keynesian investment multiplier (K)?",
+      "options": {
+        "A": "1.25",
+        "B": "4.0",
+        "C": "5.0",
+        "D": "8.0"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "category": "National Income",
+      "question": "Which major pitfall must be eliminated when calculating national income via the output (value-added) approach to prevent artificial inflation of GDP figures?",
+      "options": {
+        "A": "Omission of transfer payments",
+        "B": "Double counting of intermediate goods",
+        "C": "Exclusion of net foreign trade surplus",
+        "D": "Inclusion of capital depreciation"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "category": "National Income",
+      "question": "In the circular flow of income for an open economy, which set of economic variables constitutes injections (J) into the national income stream?",
+      "options": {
+        "A": "Savings (S), Taxes (T), Imports (M)",
+        "B": "Investment (I), Government Spending (G), Exports (X)",
+        "C": "Investment (I), Taxes (T), Exports (X)",
+        "D": "Savings (S), Government Spending (G), Imports (M)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "category": "National Income",
+      "question": "What national accounting identity correctly measures Personal Disposable Income (PDI)?",
+      "options": {
+        "A": "Personal Income − Direct Personal Taxes",
+        "B": "National Income − Indirect Taxes + Subsidies",
+        "C": "Gross Domestic Product − Depreciation",
+        "D": "Personal Income − Corporate Retained Earnings"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "category": "National Income",
+      "question": "An economy's Nominal GDP grew by 12% in a given year while Real GDP grew by 4%. What was the approximate percentage rate of inflation as measured by the GDP deflator?",
+      "options": {
+        "A": "16%",
+        "B": "3%",
+        "C": "8%",
+        "D": "48%"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "category": "Monetary and Fiscal Policy",
+      "question": "When a central bank conducts Open Market Operations (OMO) by selling government treasury bills to commercial banks, what is the immediate intended policy outcome?",
+      "options": {
+        "A": "Increase in commercial bank liquidity and money supply expansion",
+        "B": "Reduction in commercial bank reserves and money supply contraction",
+        "C": "Decrease in the cash reserve ratio (CRR)",
+        "D": "Lowering of the policy discount rate"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "category": "Monetary and Fiscal Policy",
+      "question": "Which monetary policy instrument directly obliges commercial banks to keep a fixed percentage of their total deposit liabilities with the central bank?",
+      "options": {
+        "A": "Cash Reserve Ratio (CRR)",
+        "B": "Liquidity Ratio (LR)",
+        "C": "Moral Suasion",
+        "D": "Special Deposits"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "category": "Monetary and Fiscal Policy",
+      "question": "To curb demand-pull inflation during an economic boom, which discretionary fiscal policy combination should the government implement?",
+      "options": {
+        "A": "Increase government expenditure and decrease tax rates",
+        "B": "Decrease government expenditure and increase tax rates",
+        "C": "Increase central bank bond purchases and reduce interest rates",
+        "D": "Decrease statutory reserve requirements and increase subsidies"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "category": "Monetary and Fiscal Policy",
+      "question": "What type of tax structure is in place when the marginal tax rate increases as an individual's taxable income level rises?",
+      "options": {
+        "A": "Regressive tax",
+        "B": "Proportional tax",
+        "C": "Indirect tax",
+        "D": "Progressive tax"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 19,
+      "category": "Monetary and Fiscal Policy",
+      "question": "According to Keynesian monetary theory, which motive for holding cash balances is primarily sensitive to changes in interest rates?",
+      "options": {
+        "A": "Transactions motive",
+        "B": "Precautionary motive",
+        "C": "Speculative motive",
+        "D": "Income motive"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "category": "Monetary and Fiscal Policy",
+      "question": "When government budget deficits financed by public borrowing lead to higher interest rates that reduce private capital investment, what economic phenomenon occurs?",
+      "options": {
+        "A": "Multiplier effect",
+        "B": "Crowding-out effect",
+        "C": "Liquidity trap",
+        "D": "Automatic stabilization"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "category": "Monetary and Fiscal Policy",
+      "question": "Which component is classified as an automatic (built-in) fiscal stabilizer during an economic downturn?",
+      "options": {
+        "A": "Progressive income tax collections automatically declining",
+        "B": "Central bank lowering the discount rate",
+        "C": "Parliament passing a new infrastructure spending bill",
+        "D": "Selling state-owned enterprises through privatization"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "category": "Monetary and Fiscal Policy",
+      "question": "In Milton Friedman's Quantity Theory of Money equation MV = PQ, what assumption regarding money velocity (V) and real output (Q) leads monetarists to conclude that money supply changes directly determine price level (P)?",
+      "options": {
+        "A": "V and Q are highly volatile in the short run",
+        "B": "V and Q are stable or at full employment capacity in the short run",
+        "C": "V decreases whenever M increases",
+        "D": "P and Q are completely independent of M"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "category": "Market Structures",
+      "question": "In a perfectly competitive market, what condition defines profit maximization for an individual firm in both the short run and the long run?",
+      "options": {
+        "A": "Price = Marginal Cost = Marginal Revenue",
+        "B": "Price > Marginal Revenue = Marginal Cost",
+        "C": "Average Total Cost = Marginal Revenue",
+        "D": "Total Revenue = Total Fixed Cost"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "category": "Market Structures",
+      "question": "In the long-run equilibrium of a perfectly competitive industry, what economic profit level do existing firms earn due to free entry and exit?",
+      "options": {
+        "A": "Positive abnormal profit",
+        "B": "Zero economic profit (Normal profit)",
+        "C": "Negative economic profit (Subnormal loss)",
+        "D": "Monopolistic supernormal profit"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "category": "Market Structures",
+      "question": "Which market structure is uniquely characterized by mutual interdependence among a few dominant seller firms, often leading to collusive or non-collusive game-theoretic behavior?",
+      "options": {
+        "A": "Monopolistic competition",
+        "B": "Perfect competition",
+        "C": "Oligopoly",
+        "D": "Monopsony"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "category": "Market Structures",
+      "question": "The kinked demand curve model proposed by Paul Sweezy explains price rigidity under non-collusive oligopoly. Why is the demand curve inelastic below the prevailing price P*?",
+      "options": {
+        "A": "Rival firms will follow price decreases but ignore price increases",
+        "B": "Rival firms will follow price increases but ignore price decreases",
+        "C": "Rival firms will maintain constant production regardless of price",
+        "D": "Consumers become insensitive to price increases"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "category": "Market Structures",
+      "question": "A profit-maximizing monopolist practices third-degree price discrimination across two distinct market segments. How does the monopolist set prices in these two markets?",
+      "options": {
+        "A": "Higher price in the market with higher price elasticity of demand",
+        "B": "Higher price in the market with lower price elasticity of demand",
+        "C": "Equal prices in both markets regardless of elasticity",
+        "D": "Lower price in the market with lower income level"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "category": "Market Structures",
+      "question": "Under monopolistic competition, what key feature differentiates products sold by competing firms in the industry?",
+      "options": {
+        "A": "Homogeneous products",
+        "B": "Product differentiation (branding, design, quality)",
+        "C": "Standardized primary commodities",
+        "D": "Perfectly substitutable goods"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "category": "Market Structures",
+      "question": "A firm operating under perfect competition faces a horizontal demand curve. What does this indicate about the firm's market power?",
+      "options": {
+        "A": "The firm is a price maker with complete market power",
+        "B": "The firm is a price taker with zero market power",
+        "C": "The firm can raise price without losing sales volume",
+        "D": "The firm regulates industry supply"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "category": "Market Structures",
+      "question": "What is the primary cause of deadweight loss (allocative inefficiency) created by a profit-maximizing pure monopoly?",
+      "options": {
+        "A": "Producing where Price equals Marginal Cost (P = MC)",
+        "B": "Producing an output level where Price exceeds Marginal Cost (P > MC)",
+        "C": "Earning normal profits in the long run",
+        "D": "Operating at minimum Average Total Cost (ATC)"
+      },
+      "answer": "B"
+    }
+  ]
+}
