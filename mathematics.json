@@ -1,0 +1,365 @@
+{
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "category": "Probability",
+      "question": "A fair six-sided die is rolled twice. What is the probability that the sum of the outcomes is a prime number, given that at least one roll turned up an even number?",
+      "options": {
+        "A": "7/27",
+        "B": "5/9",
+        "C": "7/36",
+        "D": "1/2"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "category": "Probability",
+      "question": "Three events A, B, and C are mutually independent with P(A) = 0.4, P(B) = 0.5, and P(C) = 0.3. Find the probability that exactly one of the events occurs.",
+      "options": {
+        "A": "0.14",
+        "B": "0.418",
+        "C": "0.36",
+        "D": "0.45"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "category": "Probability",
+      "question": "Box X contains 4 red balls and 6 blue balls. Box Y contains 5 red balls and 3 blue balls. A ball is chosen at random from Box X and transferred to Box Y, then a ball is drawn from Box Y. If the drawn ball from Box Y is red, what is the probability that the transferred ball was blue?",
+      "options": {
+        "A": "1/2",
+        "B": "5/9",
+        "C": "25/49",
+        "D": "18/43"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "category": "Probability",
+      "question": "Two continuous independent random variables X and Y are uniformly distributed on the interval [0, 2]. Calculate the probability that |X − Y| ≤ 1.",
+      "options": {
+        "A": "1/4",
+        "B": "1/2",
+        "C": "3/4",
+        "D": "7/8"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "category": "Probability",
+      "question": "A student answers a 4-option multiple-choice question. The probability that the student knows the answer is 2/3. If they do not know, they guess randomly. Given that the student answered correctly, what is the probability that they actually knew the answer?",
+      "options": {
+        "A": "8/9",
+        "B": "2/3",
+        "C": "3/4",
+        "D": "7/8"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "category": "Probability",
+      "question": "A biased coin is twice as likely to land on Heads as on Tails. If the coin is tossed 4 times, what is the probability of obtaining at least 3 Heads?",
+      "options": {
+        "A": "16/81",
+        "B": "32/81",
+        "C": "1/2",
+        "D": "48/81"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "category": "Trigonometry",
+      "question": "If sin(θ) + cos(θ) = 7/5, where 0 ≤ θ ≤ π/2, find the value of tan(θ) + cot(θ).",
+      "options": {
+        "A": "25/24",
+        "B": "25/12",
+        "C": "12/25",
+        "D": "24/25"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "category": "Trigonometry",
+      "question": "Solve for x in the domain 0° ≤ x ≤ 360° for the equation 2cos²(x) + 3sin(x) − 3 = 0.",
+      "options": {
+        "A": "30°, 90°, 150°",
+        "B": "60°, 90°, 120°",
+        "C": "30°, 150°",
+        "D": "90°, 210°, 330°"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "category": "Trigonometry",
+      "question": "Simplify the trigonometric expression: (sin(3x) + sin(x)) / (cos(3x) + cos(x)).",
+      "options": {
+        "A": "tan(x)",
+        "B": "cot(2x)",
+        "C": "tan(2x)",
+        "D": "tan(4x)"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "category": "Trigonometry",
+      "question": "In a triangle ABC, sides a = 7 cm, b = 8 cm, and c = 9 cm. Find the exact value of cos(A).",
+      "options": {
+        "A": "2/3",
+        "B": "11/16",
+        "C": "7/12",
+        "D": "3/4"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "category": "Trigonometry",
+      "question": "Evaluate tan(15°) without using logarithmic or trigonometric tables.",
+      "options": {
+        "A": "2 − √3",
+        "B": "2 + √3",
+        "C": "√3 − 1",
+        "D": "(√3 − 1)/2"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "category": "Trigonometry",
+      "question": "If tan(α) = 1/2 and tan(β) = 1/3, where α and β are acute angles, evaluate the angle (α + β).",
+      "options": {
+        "A": "30°",
+        "B": "60°",
+        "C": "45°",
+        "D": "90°"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "category": "Calculus",
+      "question": "Evaluate the limit: lim_{x → 0} (1 − cos(4x)) / x².",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "16",
+        "D": "8"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 14,
+      "category": "Calculus",
+      "question": "Find the derivative of y = xˣ with respect to x for x > 0.",
+      "options": {
+        "A": "xˣ (1 + ln(x))",
+        "B": "x · xˣ⁻¹",
+        "C": "xˣ ln(x)",
+        "D": "xˣ (ln(x) − 1)"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "category": "Calculus",
+      "question": "Evaluate the definite integral: ∫₀^{π/2} sin³(x) cos(x) dx.",
+      "options": {
+        "A": "1/2",
+        "B": "1/4",
+        "C": "1/3",
+        "D": "1/8"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "category": "Calculus",
+      "question": "Find the stationary point(s) of the curve y = 2x³ − 9x² + 12x − 5 and determine the nature of the point at x = 1.",
+      "options": {
+        "A": "Minimum at (1, 0)",
+        "B": "Inflection point at (1, 0)",
+        "C": "Maximum at (1, 0)",
+        "D": "Maximum at (1, 2)"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "category": "Calculus",
+      "question": "Calculate the area enclosed between the curves y = x² and y = 2x − x².",
+      "options": {
+        "A": "1/3",
+        "B": "1/2",
+        "C": "2/3",
+        "D": "4/3"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "category": "Calculus",
+      "question": "Given the parametric equations x = t² − 1 and y = t³ − t, find dy/dx at t = 2.",
+      "options": {
+        "A": "3/2",
+        "B": "11/4",
+        "C": "5/4",
+        "D": "11/2"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "category": "Permutation and Combination",
+      "question": "In how many distinct ways can the letters of the word 'ASSASSINATION' be arranged such that all the 'S's are always kept together?",
+      "options": {
+        "A": "151,200",
+        "B": "10,810,800",
+        "C": "1,663,200",
+        "D": "75,600"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "category": "Permutation and Combination",
+      "question": "A committee of 5 people is to be selected from 6 men and 4 women. What is the total number of ways to form the committee if it must contain at least 2 women?",
+      "options": {
+        "A": "186",
+        "B": "196",
+        "C": "246",
+        "D": "252"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "category": "Permutation and Combination",
+      "question": "Find the total number of straight lines that can be formed by joining 12 distinct points in a plane, given that exactly 5 of these points are collinear.",
+      "options": {
+        "A": "57",
+        "B": "66",
+        "C": "56",
+        "D": "61"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "category": "Permutation and Combination",
+      "question": "In how many different ways can 6 people be seated around a circular table if two particular people insist on NOT sitting next to each other?",
+      "options": {
+        "A": "48",
+        "B": "24",
+        "C": "72",
+        "D": "120"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "category": "Permutation and Combination",
+      "question": "Find the coefficient of x³ in the binomial expansion of (2 − 3x)⁶.",
+      "options": {
+        "A": "4320",
+        "B": "−4320",
+        "C": "−2160",
+        "D": "2160"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "category": "Permutation and Combination",
+      "question": "How many four-digit even numbers greater than 5000 can be formed using the digits 2, 3, 5, 6, 7, and 8 without repetition?",
+      "options": {
+        "A": "120",
+        "B": "90",
+        "C": "108",
+        "D": "180"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "category": "Gradient of Lines & Midpoints of a Line",
+      "question": "The gradient of the line passing through points A(k, 3) and B(4, k²) is equal to 2. Determine the possible real value(s) of k.",
+      "options": {
+        "A": "k = 5 or k = −1",
+        "B": "k = 1 ± √6",
+        "C": "k = −5 or k = 1",
+        "D": "k = 3 or k = −2"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "category": "Gradient of Lines & Midpoints of a Line",
+      "question": "Find the equation of the perpendicular bisector of the line segment joining the points P(−2, 5) and Q(4, 1).",
+      "options": {
+        "A": "3x − 2y + 3 = 0",
+        "B": "3x − 2y − 3 = 0",
+        "C": "2x + 3y − 11 = 0",
+        "D": "3x + 2y − 9 = 0"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "category": "Gradient of Lines & Midpoints of a Line",
+      "question": "Point M(2, −3) is the midpoint of segment AB. If the coordinates of point A are (−4, 1), find the coordinates of point B.",
+      "options": {
+        "A": "(8, −7)",
+        "B": "(0, −5)",
+        "C": "(6, −4)",
+        "D": "(8, −5)"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "category": "Gradient of Lines & Midpoints of a Line",
+      "question": "The lines L₁: 3x + (a − 1)y − 7 = 0 and L₂: ax + 2y + 5 = 0 are perpendicular. Find the value of a.",
+      "options": {
+        "A": "2/5",
+        "B": "1/2",
+        "C": "−2/5",
+        "D": "2"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "category": "Gradient of Lines & Midpoints of a Line",
+      "question": "The acute angle θ between two lines with gradients m₁ = 3 and m₂ = 1/2 is given by:",
+      "options": {
+        "A": "tan⁻¹(2/5)",
+        "B": "tan⁻¹(1)",
+        "C": "tan⁻¹(7/5)",
+        "D": "tan⁻¹(5/2)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "category": "Gradient of Lines & Midpoints of a Line",
+      "question": "The line 2x − 3y + 6 = 0 intersects the x-axis at point P and the y-axis at point Q. Calculate the coordinates of the midpoint of line segment PQ.",
+      "options": {
+        "A": "(−3/2, 1)",
+        "B": "(3, −1)",
+        "C": "(−3, 2)",
+        "D": "(3/2, −1)"
+      },
+      "answer": "A"
+    }
+  ]
+}
