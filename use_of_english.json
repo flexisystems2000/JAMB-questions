@@ -1,0 +1,488 @@
+{
+  "passages": {
+    "cloze_test_passage": "The contemporary global financial architecture, framed predominantly during the mid-twentieth century, is undergoing an unprecedented crisis of legitimacy as emerging economies demand a thorough overhaul of its structural [1]. For decades, the asymmetry in decision-making power within international monetary institutions has [2] a system wherein developing nations are subjected to stringent conditionalities, while developed nations enjoy near-total policy [3]. This systemic imbalance is nowhere more glaring than in the mechanics of debt sustainability framework assessments. When sovereign nations face severe balance-of-payments deficits, the default recourse has historically been the invocation of austerity measures—a policy package that frequently [4] domestic social safety nets in favor of debt service obligations. Critics argue that such macroeconomic prescriptions are not merely counterproductive but inherently [5], as they erode the tax base and suppress domestic demand, thereby entrenching the very economic stagnation they purport to alleviate. Furthermore, the modern global economy is increasingly defined by intangible assets, digital commerce, and multinational capital flows that easily [6] traditional regulatory regimes. Tax avoidance strategies deployed by conglomerate enterprises do not merely exploit loopholes; they reflect a sophisticated, institutionalized effort to [7] profits from host jurisdictions to low-tax havens. This phenomenon has severely depleted the fiscal capacity of post-colonial states, forcing them into a precarious reliance on foreign loans characterized by commercial, non-concessional interest rates. Consequently, the discourse surrounding international tax reform has reached a critical [8], with multilateral organizations attempting to forge a consensus on a global minimum corporate tax rate. However, negotiations remain fraught with geopolitical friction. Developing countries contend that the proposed baseline rate is [9] low and tailored primarily to shield the revenues of high-income nations while offering negligible fiscal relief to the Global South. To truly democratize global governance, reform must extend beyond superficial modifications; it demands a radical reimagining of sovereign debt restructuring mechanisms, an equitable distribution of voting rights in multilateral banks, and a firm commitment to curbing the predatory practices of private creditors who routinely [10] human development for speculative financial gains. The ongoing climate crisis has further escalated the urgency of this institutional restructuring. Vulnerable nations, despite having contributed negligibly to cumulative global greenhouse gas emissions, find themselves disproportionately exposed to climate-induced catastrophes that devastate their infrastructure and devastate their national balance sheets. The existing climate finance mechanisms are blatantly inadequate, often taking the form of high-interest loans rather than non-repayable grants, thereby compounding the fiscal vulnerabilities of affected states. This vicious cycle of environmental disaster and debt accumulation highlights the utter failure of current global arrangements to address systemic inequities. Without a fundamental recalibration of trade agreements and capital movement controls, developing nations will remain trapped in a peripheral status, perpetually subject to the economic whims and monetary policies of central bank cartels in the developed world. The structural adjustments historically imposed on these nations have demonstrated that market-led economic recipes cannot solve deep-seated poverty when the underlying global terms of trade are rigged against primary commodity exporters. Wealth accumulation in core industrial centers continues to depend heavily on the extraction of value from resource-rich but financially constrained peripheral economies. Unless international legal frameworks are empowered to enforce fair taxation, restrict illicit financial outflows, and provide genuine debt relief mechanisms, talk of global sustainable development will remain an exercise in empty rhetoric. The imperative of our time is therefore not merely administrative reform, but a thorough ethical and structural reconstitution of the world economic order, prioritizing human dignity and environmental survival above capital accumulation.",
+    "lexis_and_structure_passage": "The philosophical debate surrounding determinism and human agency has re-emerged with renewed vigor in the epoch of artificial intelligence and neuroscientific advancement. For centuries, ethicists operated on the tacit assumption that moral responsibility hinges upon the absolute freedom of the human will—the capacity of an autonomous agent to have acted otherwise under identical antecedent conditions. However, modern empirical findings in cognitive neuroscience suggest that neural activation patterns precede conscious decision-making, leading radical physicalists to relegate free will to the realm of epiphenomenal illusion. If our choices are merely the deterministic output of antecedent biological states and environmental inputs, the traditional foundations of retributive justice and moral culpability are fundamentally undermined. Opponents of this hard determinist stance argue for compatibilism, asserting that moral accountability does not require an uncaused cause, but merely the absence of external coercion. According to this view, an individual acts freely as long as their actions align with their internal desires, rational deliberations, and secondary volitions, even if those desires are ultimately rooted in a causal chain stretching back to the Big Bang. Yet, this synthesis hardly placates those who view compatibilism as a mere semantic sleight of hand. The dilemma becomes even more acute when algorithmically driven decision-making systems usurp human judgment in judicial sentencing, medical diagnosis, and autonomous warfare, raising the profound question: when an autonomous system errs, upon whom does the moral and legal liability fall?"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "category": "Cloze Text",
+      "question": "Choose the most appropriate option for blank [1].",
+      "options": {
+        "A": "parameters",
+        "B": "paradigms",
+        "C": "perimeters",
+        "D": "paraphrases"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "category": "Cloze Text",
+      "question": "Choose the most appropriate option for blank [2].",
+      "options": {
+        "A": "perpetrated",
+        "B": "persecuted",
+        "C": "perpetuated",
+        "D": "perspired"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "category": "Cloze Text",
+      "question": "Choose the most appropriate option for blank [3].",
+      "options": {
+        "A": "anomie",
+        "B": "autocracy",
+        "C": "autarky",
+        "D": "autonomy"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "category": "Cloze Text",
+      "question": "Choose the most appropriate option for blank [4].",
+      "options": {
+        "A": "excoriates",
+        "B": "eviscerates",
+        "C": "exonerates",
+        "D": "expatriates"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "category": "Cloze Text",
+      "question": "Choose the most appropriate option for blank [5].",
+      "options": {
+        "A": "inimitable",
+        "B": "immanent",
+        "C": "inimical",
+        "D": "imminent"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "category": "Cloze Text",
+      "question": "Choose the most appropriate option for blank [6].",
+      "options": {
+        "A": "circumscribe",
+        "B": "circumnavigate",
+        "C": "circumlocute",
+        "D": "circumvent"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "category": "Cloze Text",
+      "question": "Choose the most appropriate option for blank [7].",
+      "options": {
+        "A": "siphon",
+        "B": "suffuse",
+        "C": "supplant",
+        "D": "suborn"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "category": "Cloze Text",
+      "question": "Choose the most appropriate option for blank [8].",
+      "options": {
+        "A": "junction",
+        "B": "adjunct",
+        "C": "juncture",
+        "D": "conjunct"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "category": "Cloze Text",
+      "question": "Choose the most appropriate option for blank [9].",
+      "options": {
+        "A": "ordinarily",
+        "B": "inordinately",
+        "C": "subordinately",
+        "D": "insubordinately"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "category": "Cloze Text",
+      "question": "Choose the most appropriate option for blank [10].",
+      "options": {
+        "A": "suborn",
+        "B": "subsidize",
+        "C": "subsume",
+        "D": "subordinate"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "category": "Sentence Interpretation",
+      "question": "Sentence: 'The Minister's speech was anything but conciliatory.' What does this mean?",
+      "options": {
+        "A": "The speech contained various conciliation strategies.",
+        "B": "The speech was slightly conciliatory in tone.",
+        "C": "The speech was entirely aggressive and unyielding.",
+        "D": "The speech was extremely peacemaking."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "category": "Sentence Interpretation",
+      "question": "Sentence: 'Scarcely had the chairman taken his seat when the protest erupted.' What is the implication?",
+      "options": {
+        "A": "The protest erupted immediately after the chairman sat down.",
+        "B": "The chairman sat down long before the protest erupted.",
+        "C": "The chairman refused to sit down because of the protest.",
+        "D": "The protest erupted just before the chairman could take his seat."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "category": "Sentence Interpretation",
+      "question": "Sentence: 'You cannot be too careful when driving at night.' What does this mean?",
+      "options": {
+        "A": "You should not be overly cautious when driving at night.",
+        "B": "It is impossible for you to drive carefully at night.",
+        "C": "Careful driving at night is unnecessary.",
+        "D": "You must exercise maximum possible caution when driving at night."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 14,
+      "category": "Sentence Interpretation",
+      "question": "Sentence: 'The project failed for all the manager's enthusiasm.' What does this mean?",
+      "options": {
+        "A": "The project failed strictly because of the manager's enthusiasm.",
+        "B": "The project failed despite the manager's great enthusiasm.",
+        "C": "The manager's enthusiasm prevented the failure of the project.",
+        "D": "All the manager's enthusiasm was caused by the failure."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "category": "Sentence Interpretation",
+      "question": "Sentence: 'Were he to apologize, the board might reconsider.' What is implied?",
+      "options": {
+        "A": "Because he apologized, the board reconsidered.",
+        "B": "He was advised to apologize so the board would reconsider.",
+        "C": "He has not apologized, but if he does, reconsideration is possible.",
+        "D": "He will definitely apologize to force the board to reconsider."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 16,
+      "category": "Sentence Interpretation",
+      "question": "Sentence: 'The witness was economical with the truth.' What does this mean?",
+      "options": {
+        "A": "The witness spoke briefly and to the point.",
+        "B": "The witness deliberately withheld essential facts or lied.",
+        "C": "The witness saved the court time by speaking truthfully.",
+        "D": "The witness gave a clear and precise account."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "category": "Sentence Interpretation",
+      "question": "Sentence: 'She did not agree, nor did she object.' What does this mean?",
+      "options": {
+        "A": "She objected strongly without agreeing.",
+        "B": "She agreed after objecting initially.",
+        "C": "She both agreed and objected simultaneously.",
+        "D": "She maintained a strictly neutral stance."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 18,
+      "category": "Sentence Interpretation",
+      "question": "Sentence: 'He is no more a scientist than his brother is a poet.' What does this mean?",
+      "options": {
+        "A": "Neither he is a scientist, nor is his brother a poet.",
+        "B": "Both he and his brother are accomplished in their fields.",
+        "C": "He is a better scientist than his brother is a poet.",
+        "D": "His brother is definitely a poet, but he is not a scientist."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "category": "Concord",
+      "question": "Neither the principal nor the teachers _____ present at the emergency board meeting yesterday.",
+      "options": {
+        "A": "was",
+        "B": "are",
+        "C": "were",
+        "D": "is"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "category": "Concord",
+      "question": "Every boy and every girl _____ expected to submit their registration form before noon.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "category": "Concord",
+      "question": "More than one candidate _____ disqualification after the credentials audit.",
+      "options": {
+        "A": "face",
+        "B": "have faced",
+        "C": "are facing",
+        "D": "faces"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 22,
+      "category": "Concord",
+      "question": "The committee _____ divided in their opinions regarding the proposed expenditure.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "has been",
+        "D": "is"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "category": "Concord",
+      "question": "Bread and butter _____ his only staple food during the crisis.",
+      "options": {
+        "A": "were",
+        "B": "are",
+        "C": "was",
+        "D": "have been"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "category": "Concord",
+      "question": "A range of complex technological solutions _____ required to address this issue.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "category": "Lexis and Structure",
+      "question": "Based on the Lexis and Structure passage, the phrase 'tacit assumption' as used in the text most nearly means:",
+      "options": {
+        "A": "an explicitly documented theory",
+        "B": "a rejected hypothesis",
+        "C": "a mathematically proven fact",
+        "D": "an unspoken, implied belief"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "category": "Lexis and Structure",
+      "question": "In the Lexis and Structure passage, the word 'epiphenomenal' implies that free will is treated as:",
+      "options": {
+        "A": "a secondary byproduct without causal power",
+        "B": "the primary driving force of human evolution",
+        "C": "a divine intervention in physical laws",
+        "D": "an unchallengeable biological reality"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "category": "Lexis and Structure",
+      "question": "Choose the option that best completes the sentence: The defense attorney tried to _____ guilt from the accused to his accomplice.",
+      "options": {
+        "A": "shuff",
+        "B": "shift",
+        "C": "sift",
+        "D": "shear"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "category": "Lexis and Structure",
+      "question": "Which of the following options correctly fills the gap? The suspect's alibi was completely _____, collapsing under cross-examination.",
+      "options": {
+        "A": "spurious",
+        "B": "spacious",
+        "C": "specious",
+        "D": "speckled"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "category": "Lexis and Structure",
+      "question": "In the passage, the word 'usurp' means to:",
+      "options": {
+        "A": "wrongfully seize or take over",
+        "B": "assist and support",
+        "C": "legally inherit",
+        "D": "gradually surrender"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "category": "Lexis and Structure",
+      "question": "Choose the correct idiom: The corrupt official was caught _____ taking bribes from contractors.",
+      "options": {
+        "A": "red-capped",
+        "B": "red-taped",
+        "C": "red-faced",
+        "D": "red-handed"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 31,
+      "category": "Stress",
+      "question": "Identify the word with the primary stress on the FIRST syllable.",
+      "options": {
+        "A": "con-TRO-ver-sy",
+        "B": "con-tro-VER-sy",
+        "C": "CON-tro-ver-sy",
+        "D": "con-tro-ver-SY"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 32,
+      "category": "Stress",
+      "question": "Identify the word with the primary stress on the SECOND syllable.",
+      "options": {
+        "A": "HY-po-cri-sy",
+        "B": "hy-POC-ri-sy",
+        "C": "hy-po-CRI-sy",
+        "D": "hy-po-cri-SY"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "category": "Stress",
+      "question": "Which of the following words is stressed on the THIRD syllable?",
+      "options": {
+        "A": "un-der-STAND",
+        "B": "UN-der-stand",
+        "C": "un-DER-stand",
+        "D": "un-der-stand-ING"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 34,
+      "category": "Stress",
+      "question": "Choose the word whose stress pattern differs from the other three.",
+      "options": {
+        "A": "PHO-to-graph-er",
+        "B": "pho-to-GRAPH-ic",
+        "C": "PHO-to-graph",
+        "D": "pho-TO-gra-pher"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 35,
+      "category": "Stress",
+      "question": "In the sentence 'SHE stole my red bag' (with emphatic stress on 'SHE'), what is the correct interpretation?",
+      "options": {
+        "A": "She did not steal any other thing except my red bag.",
+        "B": "Nobody else but her stole my red bag.",
+        "C": "She bought my red bag rather than stealing it.",
+        "D": "She stole somebody else's red bag."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "category": "Oral English / Phonetics",
+      "question": "Which of the following words PERFECTLY rhymes with 'PLOUGH'?",
+      "options": {
+        "A": "ROUGH",
+        "B": "COUGH",
+        "C": "BOUGH",
+        "D": "THOUGH"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "category": "Oral English / Phonetics",
+      "question": "Which of the following words PERFECTLY rhymes with 'GAOL'?",
+      "options": {
+        "A": "DALE",
+        "B": "GOAL",
+        "C": "FOUL",
+        "D": "HOWL"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "category": "Oral English / Phonetics",
+      "question": "Which of the following words PERFECTLY rhymes with 'SUITE'?",
+      "options": {
+        "A": "SUIT",
+        "B": "SWEAT",
+        "C": "SOOT",
+        "D": "SWEET"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 39,
+      "category": "Oral English / Phonetics",
+      "question": "Which of the following words PERFECTLY rhymes with 'CHOIR'?",
+      "options": {
+        "A": "CHOIRMASTER",
+        "B": "WIRE",
+        "C": "COIR",
+        "D": "CHORE"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "category": "Oral English / Phonetics",
+      "question": "Which of the following words PERFECTLY rhymes with 'DEBRIS'?",
+      "options": {
+        "A": "PROSE",
+        "B": "BRIS",
+        "C": "DEGREE",
+        "D": "PROMISE"
+      },
+      "answer": "C"
+    }
+  ]
+}
