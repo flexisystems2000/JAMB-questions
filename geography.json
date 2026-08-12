@@ -1,0 +1,365 @@
+{
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "category": "Map Reading and Interpretation",
+      "question": "On a 1:50,000 topographic map, what is the ground distance represented by a straight line measuring 8 cm between two towns?",
+      "options": {
+        "A": "40 km",
+        "B": "4 km",
+        "C": "0.4 km",
+        "D": "400 km"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "category": "Map Reading and Interpretation",
+      "question": "What landform feature is depicted by closed, roughly circular contour lines with values increasing toward the center?",
+      "options": {
+        "A": "Depression",
+        "B": "Saddle",
+        "C": "Hill or Mountain",
+        "D": "Spur"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "category": "Map Reading and Interpretation",
+      "question": "What is the true geographic bearing corresponding to a compass direction of South-West (SW)?",
+      "options": {
+        "A": "225°",
+        "B": "135°",
+        "C": "315°",
+        "D": "045°"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "category": "Map Reading and Interpretation",
+      "question": "When contour lines are packed very closely together on a topographic map, what terrain characteristic does this indicate?",
+      "options": {
+        "A": "Gentle slope",
+        "B": "Steep slope or Cliff",
+        "C": "Broad floodplain",
+        "D": "Undulating plateau"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "category": "Map Reading and Interpretation",
+      "question": "In a 6-figure grid reference 425683, what do the first three digits (425) represent?",
+      "options": {
+        "A": "Northing value",
+        "B": "Easting value",
+        "C": "Elevation above sea level in meters",
+        "D": "Contour interval"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "category": "Map Reading and Interpretation",
+      "question": "What is the map scale expressed as a representative fraction if 2 cm on the map represents 1 km on the ground?",
+      "options": {
+        "A": "1:50,000",
+        "B": "1:20,000",
+        "C": "1:100,000",
+        "D": "1:500,000"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "category": "Map Reading and Interpretation",
+      "question": "Which drainage pattern develops on a uniform, gently sloping landform where tributaries join the main river at acute angles resembling tree branches?",
+      "options": {
+        "A": "Trellis pattern",
+        "B": "Radial pattern",
+        "C": "Centripetal pattern",
+        "D": "Dendritic pattern"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "category": "Weather and Climate",
+      "question": "Which meteorological instrument is housed inside a Stevenson Screen to measure the minimum and maximum atmospheric temperatures?",
+      "options": {
+        "A": "Barometer",
+        "B": "Thermometer",
+        "C": "Hygrometer",
+        "D": "Anemometer"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "category": "Weather and Climate",
+      "question": "What rainfall type occurs when moist air is forced to rise over a high mountain barrier, causing cooling, condensation, and precipitation on the windward slope?",
+      "options": {
+        "A": "Convectional rainfall",
+        "B": "Frontal (Cyclonic) rainfall",
+        "C": "Orographic (Relief) rainfall",
+        "D": "Monsoonal rainfall"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "category": "Weather and Climate",
+      "question": "If a valley station at sea level records a temperature of 30 °C, what is the expected temperature at an altitude of 2,000 meters assuming a Environmental Lapse Rate of 6.5 °C per 1,000 meters?",
+      "options": {
+        "A": "17 °C",
+        "B": "23.5 °C",
+        "C": "13 °C",
+        "D": "43 °C"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "category": "Weather and Climate",
+      "question": "Which climate region is characterized by hot, dry summers and mild, wet winters with sclerophyllous vegetation?",
+      "options": {
+        "A": "Tropical Monsoon climate",
+        "B": "Mediterranean climate",
+        "C": "Equatorial climate",
+        "D": "Tundra climate"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "category": "Weather and Climate",
+      "question": "What atmospheric phenomenon is primarily responsible for bringing the dry, dusty Harmattan wind across West Africa during the northern hemisphere winter?",
+      "options": {
+        "A": "South-West Monsoon Winds",
+        "B": "Tropical Easterly Jet Stream",
+        "C": "North-East Trade Winds",
+        "D": "Land and Sea Breeze Cycle"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "category": "Weather and Climate",
+      "question": "On a weather map, lines connecting points of equal atmospheric pressure are referred to as what?",
+      "options": {
+        "A": "Isotherms",
+        "B": "Isohyets",
+        "C": "Isobars",
+        "D": "Isohels"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "category": "Weather and Climate",
+      "question": "What instrument is used by meteorologists to measure sunshine duration in hours per day?",
+      "options": {
+        "A": "Campbell-Stokes Recorder",
+        "B": "Pitot Tube",
+        "C": "Barograph",
+        "D": "Piche Evaporimeter"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "category": "Weather and Climate",
+      "question": "Which atmospheric layer closest to the Earth's surface contains virtually all weather processes, cloud formations, and water vapor?",
+      "options": {
+        "A": "Stratosphere",
+        "B": "Troposphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "category": "Population and Settlement",
+      "question": "What term describes the average number of people living per unit area of land, typically expressed as persons per square kilometer?",
+      "options": {
+        "A": "Population distribution",
+        "B": "Population growth rate",
+        "C": "Population density",
+        "D": "Dependency ratio"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "category": "Population and Settlement",
+      "question": "A rural settlement pattern where buildings are arranged in a long, narrow row along a major transport route, coastline, or river valley is called what?",
+      "options": {
+        "A": "Nucleated settlement",
+        "B": "Dispersed settlement",
+        "C": "Linear settlement",
+        "D": "Isolated settlement"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "category": "Population and Settlement",
+      "question": "In the Demographic Transition Model, Stage 2 is primarily characterized by which demographic trends?",
+      "options": {
+        "A": "High birth rate and rapidly falling death rate leading to high population growth",
+        "B": "Low birth rate and low death rate leading to stable population",
+        "C": "High birth rate and high death rate leading to slow growth",
+        "D": "Falling birth rate and low death rate causing slow population growth"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "category": "Population and Settlement",
+      "question": "Which push factor typically forces individuals to migrate away from their rural place of origin?",
+      "options": {
+        "A": "Higher paying employment opportunities in cities",
+        "B": "Drought, crop failure, and land degradation",
+        "C": "Better access to healthcare services",
+        "D": "Presence of higher education institutions"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "category": "Population and Settlement",
+      "question": "What is calculated by expressing the population aged under 15 and over 64 relative to the working-age population (aged 15–64)?",
+      "options": {
+        "A": "Sex ratio",
+        "B": "Dependency ratio",
+        "C": "Net migration rate",
+        "D": "Infant mortality rate"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "category": "Population and Settlement",
+      "question": "What urban settlement phenomenon occurs when separate cities and expanding towns grow continuously toward one another to form a single massive urban region?",
+      "options": {
+        "A": "Megalopolis or Conurbation",
+        "B": "Ghettoization",
+        "C": "Rural-urban fringe",
+        "D": "Suburban decay"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "category": "Population and Settlement",
+      "question": "Which theory of urban land-use structure, proposed by Ernest Burgess, suggests that cities expand outward in concentric rings from a central business district?",
+      "options": {
+        "A": "Sector Model",
+        "B": "Concentric Zone Model",
+        "C": "Multiple Nuclei Model",
+        "D": "Central Place Theory"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "category": "Economic Geography",
+      "question": "Primary economic activities are mainly concerned with which type of production?",
+      "options": {
+        "A": "Processing raw materials into manufactured goods",
+        "B": "Direct extraction and harvesting of natural resources",
+        "C": "Provision of commercial and professional services",
+        "D": "High-level information research and technology development"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "category": "Economic Geography",
+      "question": "According to Alfred Weber's Industrial Location Theory, where will a weight-losing (raw-material-oriented) industry tend to locate its factory?",
+      "options": {
+        "A": "Near the market center",
+        "B": "Close to the raw material source",
+        "C": "Midway between raw material source and market",
+        "D": "Near deep-water ports exclusively"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "category": "Economic Geography",
+      "question": "Which type of agricultural system is characterized by clearing forest plots, farming them for a few seasons, and abandoning them to restore soil fertility naturally?",
+      "options": {
+        "A": "Shifting cultivation (Slash-and-burn)",
+        "B": "Plantation agriculture",
+        "C": "Intensive market gardening",
+        "D": "Mixed commercial farming"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "category": "Economic Geography",
+      "question": "Which natural non-renewable energy resource is extracted primarily from sedimentary basin rock structures?",
+      "options": {
+        "A": "Geothermal energy",
+        "B": "Petroleum (Crude Oil)",
+        "C": "Hydroelectric power",
+        "D": "Solar radiation"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "category": "Economic Geography",
+      "question": "What is the primary mode of bulk transport used internationally for moving non-perishable heavy commodities across continents?",
+      "options": {
+        "A": "Air transport",
+        "B": "Pipeline transport",
+        "C": "Maritime (Water) transport",
+        "D": "Highway road transport"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "category": "Economic Geography",
+      "question": "Which sector of economic activity includes financial consulting, software development, data management, and scientific research?",
+      "options": {
+        "A": "Secondary sector",
+        "B": "Quaternary sector",
+        "C": "Primary sector",
+        "D": "Tertiary trade sector"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "category": "Economic Geography",
+      "question": "Which major world agricultural belt utilizes extensive monoculture, large-scale mechanization, and low labor input per hectare?",
+      "options": {
+        "A": "Commercial grain farming (e.g., North American Prairies)",
+        "B": "Paddy rice farming in Monsoon Asia",
+        "C": "Subsistence terraced farming",
+        "D": "Nomadic pastoralism"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "category": "Economic Geography",
+      "question": "What economic term describes the cost savings and advantages that businesses enjoy by locating near one another in industrial clusters?",
+      "options": {
+        "A": "Agglomeration economies",
+        "B": "Break-of-bulk benefits",
+        "C": "Comparative disadvantages",
+        "D": "Marginal product costs"
+      },
+      "answer": "A"
+    }
+  ]
+}
