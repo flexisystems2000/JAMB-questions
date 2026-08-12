@@ -1,0 +1,365 @@
+{
+  "passages": {},
+  "questions": [
+    {
+      "id": 1,
+      "category": "Literary Appreciation",
+      "question": "What literary element reflects the underlying message, central idea, or universal truth explored throughout a literary work?",
+      "options": {
+        "A": "Plot",
+        "B": "Theme",
+        "C": "Setting",
+        "D": "Atmosphere"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "category": "Literary Appreciation",
+      "question": "Which term describes a narrative perspective where the storyteller exists outside the action and knows the internal thoughts, feelings, and motivations of all characters?",
+      "options": {
+        "A": "First-person point of view",
+        "B": "Third-person limited point of view",
+        "C": "Third-person omniscient point of view",
+        "D": "Second-person point of view"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "category": "Literary Appreciation",
+      "question": "In narrative structure, what is the turning point of highest emotional intensity and drama where the outcome of the main conflict becomes inevitable?",
+      "options": {
+        "A": "Exposition",
+        "B": "Rising action",
+        "C": "Climax",
+        "D": "Denouement"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "category": "Literary Appreciation",
+      "question": "What narrative technique hints at or warns readers about events that will happen later in the plot?",
+      "options": {
+        "A": "Foreshadowing",
+        "B": "Flashback",
+        "C": "In media res",
+        "D": "Deus ex machina"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "category": "Literary Appreciation",
+      "question": "Which character type undergoes significant internal development, growth, or transformation throughout the course of a story?",
+      "options": {
+        "A": "Flat character",
+        "B": "Static character",
+        "C": "Dynamic (Round) character",
+        "D": "Stock character"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "category": "Literary Appreciation",
+      "question": "What term refers to the author's attitude or emotional posture toward their subject matter or audience as revealed through diction and tone?",
+      "options": {
+        "A": "Tone",
+        "B": "Mood",
+        "C": "Style",
+        "D": "Genre"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "category": "Literary Appreciation",
+      "question": "What resolution phase follows the climax and unravels the central complexities and mysteries of a novel or play?",
+      "options": {
+        "A": "Inciting incident",
+        "B": "Denouement (Resolution)",
+        "C": "Rising action",
+        "D": "Complication"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "category": "Figures of Speech",
+      "question": "Identify the figure of speech used in the sentence: 'The wind whispered through the dark, silent pine trees.'",
+      "options": {
+        "A": "Metaphor",
+        "B": "Personification",
+        "C": "Simile",
+        "D": "Hyperbole"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "category": "Figures of Speech",
+      "question": "What figure of speech makes a direct, implicit comparison between two unlike things without using 'like' or 'as'?",
+      "options": {
+        "A": "Simile",
+        "B": "Metaphor",
+        "C": "Apostrophe",
+        "D": "Synecdoche"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "category": "Figures of Speech",
+      "question": "Which figure of speech combines two contradictory or opposing terms side-by-side for dramatic effect, such as 'deafening silence'?",
+      "options": {
+        "A": "Oxymoron",
+        "B": "Paradox",
+        "C": "Antithesis",
+        "D": "Irony"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "category": "Figures of Speech",
+      "question": "What figure of speech is demonstrated in the line: 'O Death, where is thy sting?'",
+      "options": {
+        "A": "Synecdoche",
+        "B": "Metonymy",
+        "C": "Apostrophe",
+        "D": "Euphemism"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "category": "Figures of Speech",
+      "question": "When a speaker uses a part of something to represent the whole (e.g., 'all hands on deck'), which figure of speech is being applied?",
+      "options": {
+        "A": "Metonymy",
+        "B": "Synecdoche",
+        "C": "Litotes",
+        "D": "Hyperbole"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "category": "Figures of Speech",
+      "question": "Which figure of speech uses deliberate, extreme exaggeration for emphasis or humor rather than literal truth?",
+      "options": {
+        "A": "Litotes",
+        "B": "Understatement",
+        "C": "Hyperbole",
+        "D": "Irony"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "category": "Figures of Speech",
+      "question": "What figure of speech expresses an affirmative idea by negating its opposite, such as 'He is no fool'?",
+      "options": {
+        "A": "Litotes",
+        "B": "Antithesis",
+        "C": "Hyperbole",
+        "D": "Paradox"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "category": "Figures of Speech",
+      "question": "Replacing a harsh or blunt expression with a milder, indirect term (e.g., 'passed away' for 'died') is known as what?",
+      "options": {
+        "A": "Irony",
+        "B": "Euphemism",
+        "C": "Sarcasm",
+        "D": "Innuendo"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "category": "Drama and Dramatic Techniques",
+      "question": "What dramatic device involves a character speaking their innermost thoughts aloud while alone on stage, unheard by other characters?",
+      "options": {
+        "A": "Aside",
+        "B": "Monologue",
+        "C": "Soliloquy",
+        "D": "Dialogue"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "category": "Drama and Dramatic Techniques",
+      "question": "What occurs when the audience or reader knows crucial information that the characters on stage are unaware of?",
+      "options": {
+        "A": "Verbal irony",
+        "B": "Situational irony",
+        "C": "Dramatic irony",
+        "D": "Cosmic irony"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "category": "Drama and Dramatic Techniques",
+      "question": "In classical Aristotelian tragedy, what term refers to the tragic flaw or error in judgment that causes the protagonist's downfall?",
+      "options": {
+        "A": "Hubris",
+        "B": "Hamartia",
+        "C": "Catharsis",
+        "D": "Anagnorisis"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "category": "Drama and Dramatic Techniques",
+      "question": "What short comment is spoken by an actor directly to the audience or another character, which is conventionally understood to be unheard by remaining actors on stage?",
+      "options": {
+        "A": "Aside",
+        "B": "Prologue",
+        "C": "Epilogue",
+        "D": "Soliloquy"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "category": "Drama and Dramatic Techniques",
+      "question": "What emotional release or purging of pity and fear is experienced by the audience at the conclusion of a tragedy?",
+      "options": {
+        "A": "Nemesis",
+        "B": "Catharsis",
+        "C": "Peripeteia",
+        "D": "Anagnorisis"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "category": "Drama and Dramatic Techniques",
+      "question": "Which dramatic form relies on exaggerated physical humor, absurd situations, improbable coincidences, and slapstick comedy?",
+      "options": {
+        "A": "Tragicomedy",
+        "B": "Farce",
+        "C": "Melodrama",
+        "D": "Satire"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "category": "Drama and Dramatic Techniques",
+      "question": "What is the sudden reversal of fortune or turn of events experienced by a tragic hero called?",
+      "options": {
+        "A": "Anagnorisis",
+        "B": "Peripeteia",
+        "C": "Hubris",
+        "D": "Catastrophe"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "category": "Poetry Analysis",
+      "question": "A 14-line poem written in iambic pentameter with a specific rhyme scheme is known as a what?",
+      "options": {
+        "A": "Ode",
+        "B": "Ballad",
+        "C": "Sonnet",
+        "D": "Elegy"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "category": "Poetry Analysis",
+      "question": "What poetic technique involves the repetition of initial consonant sounds in closely positioned words (e.g., 'Peter Piper picked a peck...')?",
+      "options": {
+        "A": "Assonance",
+        "B": "Consonance",
+        "C": "Alliteration",
+        "D": "Onomatopoeia"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "category": "Poetry Analysis",
+      "question": "Which poetic form is written to mourn the death of a person or reflect solemnly on loss and mortality?",
+      "options": {
+        "A": "Elegy",
+        "B": "Panegyric",
+        "C": "Lyric",
+        "D": "Pastoral"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "category": "Poetry Analysis",
+      "question": "What poetic term describes words whose spoken sound imitates or suggests their actual meaning, such as 'buzz', 'hiss', or 'clatter'?",
+      "options": {
+        "A": "Assonance",
+        "B": "Onomatopoeia",
+        "C": "Alliteration",
+        "D": "Rhyme royal"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "category": "Poetry Analysis",
+      "question": "What metrical foot in poetry consists of an unstressed syllable followed by a stressed syllable (da-DUM)?",
+      "options": {
+        "A": "Trochee",
+        "B": "Iamb",
+        "C": "Anapest",
+        "D": "Dactyl"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "category": "Poetry Analysis",
+      "question": "When a poetic line runs over into the next line without a terminal punctuation mark, what device is being used?",
+      "options": {
+        "A": "End-stopped line",
+        "B": "Enjambment",
+        "C": "Caesura",
+        "D": "Refrain"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "category": "Poetry Analysis",
+      "question": "Which structural feature of an Italian (Petrarchan) sonnet consists of the opening eight lines that present a problem or question?",
+      "options": {
+        "A": "Quatrain",
+        "B": "Sestet",
+        "C": "Octave",
+        "D": "Couplet"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "category": "Poetry Analysis",
+      "question": "What narrative poetic form typically tells a story in short stanzas, features a refrain, and was traditionally intended to be sung?",
+      "options": {
+        "A": "Ballad",
+        "B": "Epic",
+        "C": "Ode",
+        "D": "Villanelle"
+      },
+      "answer": "A"
+    }
+  ]
+}
